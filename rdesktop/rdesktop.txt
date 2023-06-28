@@ -1,0 +1,41 @@
+         _           _    _              
+ _ __ __| | ___  ___| | _| |_ ___  _ __     _  ___ ____    _  __    ___   ____   ___   ____   ___   ___         
+| '__/ _` |/ _ \/ __| |/ / __/ _ \| '_ \   / |/ _ \___ \  / |/ /_  ( _ ) |___ \ / _ \ |___ \ / _ \ / _ \ 
+| | | (_| |  __/\__ \   <| || (_) | |_) |  | | (_) |__) | | | '_ \ / _ \   __) | (_) |  __) | | | | | | |
+|_|  \__,_|\___||___/_|\_\\__\___/| .__/   | |\__, / __/ _| | (_) | (_) | / __/ \__, | / __/| |_| | |_| |
+                                  |_|      |_|  /_/_____(_)_|\___/ \___(_)_____|  /_(_)_____|\___/ \___/ 
+
+┌──(root㉿kali)-[~]
+└─# rdesktop 192.168.29.200 -u stephan   
+Autoselecting keyboard map 'en-us' from locale
+
+ATTENTION! The server uses and invalid security certificate which can not be trusted for
+the following identified reasons(s);
+
+ 1. Certificate issuer is not trusted by this system.
+
+     Issuer: CN=homepc
+
+
+Review the following certificate info before you trust it to be added as an exception.
+If you do not trust the certificate the connection atempt will be aborted:
+
+    Subject: CN=homepc
+     Issuer: CN=homepc
+ Valid From: Thu Dec 22 10:12:01 2022
+         To: Fri Jun 23 11:12:01 2023
+
+  Certificate fingerprints:
+
+       sha1: 042ad3f6c788e9545c830c66a4e6e5b45406fd64
+     sha256: 036e9965796d419dc04adb50f18eb69d1956437e4d2e9da66a4bc1adae45babc
+
+
+Do you trust this certificate (yes/no)? yes
+
+
+
+
+
+
+                                                              

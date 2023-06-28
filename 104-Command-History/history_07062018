@@ -1,0 +1,1000 @@
+ 1002  cd ..
+ 1003  ls
+ 1004  ls -n
+ 1005  cd Evil-Droid/
+ 1006  ls
+ 1007  evilapk/
+ 1008  ./evil-droid 
+ 1009  ls
+ 1010  less README.md 
+ 1011  nano evil.sh
+ 1012  chmod +x evil
+ 1013  chmod +x evil.sh 
+ 1014  ls
+ 1015  sh evil
+ 1016  sh evil.sh 
+ 1017  ls 
+ 1018  mv evil.sh  evildroid.sh
+ 1019  ls
+ 1020  cp evildroid.sh /home/script/
+ 1021  ls
+ 1022  cd ..
+ 1023  ls
+ 1024  cd Trity/
+ 1025  ls
+ 1026  sh run.sh 
+ 1027  python install.py 
+ 1028  LS
+ 1029  ls
+ 1030  cd ...
+ 1031  lsl
+ 1032  ls
+ 1033  cd ..
+ 1034  ls
+ 1035  cd ReconDog/
+ 1036  ls
+ 1037  python dog.py 
+ 1038  cd ..
+ 1039  ls
+ 1040  cd RED_HAWK/
+ 1041  lsl
+ 1042  ls
+ 1043  php rhawk.php 
+ 1044  cd ..
+ 1045  ls
+ 1046  cd ReconDog/
+ 1047  ls
+ 1048  python dog.py 
+ 1049  python /root/ReconDog/dog.py 
+ 1050  cd /home/script/
+ 1051  nano recondog.sh
+ 1052  chmod +x recondog.sh 
+ 1053  l
+ 1054  ls -n
+ 1055  cd /root/
+ 1056  ls
+ 1057  cd Veil/
+ 1058  ls
+ 1059  python Veil.py 
+ 1060  cd ...
+ 1061  cd ..
+ 1062  ls
+ 1063  cd The-Eye/
+ 1064  ls
+ 1065  ./TheEye 
+ 1066  h
+ 1067  h
+ 1068  n
+ 1069  h
+ 1070  n
+ 1071  h
+ 1072  alias
+ 1073  alias
+ 1074  h
+ 1075  cd script
+ 1076  ls
+ 1077  sh alias.sh 
+ 1078  nano alias.sh 
+ 1079  sh alias.sh 
+ 1080  ls
+ 1081  locate txt
+ 1082  ls
+ 1083  cd txt/
+ 1084  ls
+ 1085  cat Alias 
+ 1086  alias > alias
+ 1087  ls
+ 1088  cat alias
+ 1089  alias >> Alias
+ 1090  ls
+ 1091  mv Alias All-Alias
+ 1092  ls
+ 1093  cat All-Alias 
+ 1094  ls
+ 1095  mv All-Alias all-alias
+ 1096  ls
+ 1097  date >> all-alias 
+ 1098  cat all-alias 
+ 1099  naon all-alias 
+ 1100  ls
+ 1101  mv all-alias alias-history
+ 1102  ls
+ 1103  nano alias-help
+ 1104  mv alias-help help-alias
+ 1105  ls
+ 1106  nano alias-history 
+ 1107  fshow
+ 1108  shutdown now
+ 1109  color
+ 1110  cd /home/script/
+ 1111  cd txt/
+ 1112  ls
+ 1113  h
+ 1114  h
+ 1115  h
+ 1116  wine
+ 1117  apt-get install wine32
+ 1118  dpkg --configure -a
+ 1119  reboot
+ 1120  googler youtube
+ 1121  alias
+ 1122  wine31
+ 1123  wine32
+ 1124  apt-get install wine32
+ 1125  mall
+ 1126  area51
+ 1127  nano script/restricted.sh 
+ 1128  area51
+ 1129  nano script/restricted.sh 
+ 1130  area51
+ 1131  nano script/restricted.sh 
+ 1132  playonlinux
+ 1133  pkg
+ 1134  apt-get install playonlinux
+ 1135  cd /usr/share/playonlinux/python
+ 1136  ls
+ 1137  leafpad mainwindow.py
+ 1138  cd ..
+ 1139  ls
+ 1140  cd lib/
+ 1141  ls
+ 1142  leafpad sources 
+ 1143  playonlinux
+ 1144  lss
+ 1145  ls
+ 1146  cat apt 
+ 1147  echo "apt-get instal wine2" >> apt
+ 1148  echo "apt-get install playonlinux" >> apt
+ 1149  playonlinux
+ 1150  cd /usr/lib/
+ 1151  lss
+ 1152  ls
+ 1153  cd 
+ 1154  cd /lib/
+ 1155  ls
+ 1156  cd
+ 1157  cd /usr/share/
+ 1158  ls
+ 1159  cd playonlinux/
+ 1160  ls
+ 1161  cd python/
+ 1162  ls
+ 1163  leafpad mainwindow.py
+ 1164  apt-cache search playonlinux
+ 1165  apt-autoremove playonlinux
+ 1166  apt autoremove playonlinux
+ 1167  playonlinux
+ 1168  reboot
+ 1169  h
+ 1170  cat path
+ 1171  cd /usr/lib
+ 1172  ls
+ 1173  cd playonlinux
+ 1174  ls
+ 1175  cd ..
+ 1176  cd /usr/lib/playonlinux
+ 1177  ls
+ 1178  googler exit full scrren from terminal in linux
+ 1179  exit
+ 1180  logoff
+ 1181  reboot
+ 1182  cd /usr/lib/playonlinu
+ 1183  cd /usr/lib/playonlinux
+ 1184  echo "/usr/share/playonlinux" >> path
+ 1185  wine
+ 1186  wine32
+ 1187  apt-get install playonlinux
+ 1188  apt-get -f install playonlinux
+ 1189  ls
+ 1190  cd /usr/share/lib/playonlinux
+ 1191  cd /usr/share/playonlinux/
+ 1192  ls
+ 1193  cd python/
+ 1194  ls
+ 1195  leafpad mainwindow.py
+ 1196  nano hi.txt
+ 1197  h
+ 1198  cat paht
+ 1199  cat path
+ 1200  cd /usr/share/playonlinux/
+ 1201  ls
+ 1202  cd python/
+ 1203  leafpad mainwindow.py
+ 1204  cd 
+ 1205  cd /usr/share/playonlinux/lib/
+ 1206  leafpad sources 
+ 1207  playonlinux
+ 1208  h
+ 1209  cd script
+ 1210  ls
+ 1211  nano playlinux.sh
+ 1212  chmod +x playlinux.sh 
+ 1213  h
+ 1214  sh playlinux.sh 
+ 1215  nano playlinux.sh 
+ 1216  sh playlinux.sh 
+ 1217  nano playlinux.sh 
+ 1218  h
+ 1219  cd 
+ 1220  ls
+ 1221  cd /
+ 1222  ls
+ 1223  cd 
+ 1224  ls
+ 1225  ls -a
+ 1226  cd .PlayOnLinux/
+ 1227  ls
+ 1228  cd wineprefix/
+ 1229  ls
+ 1230  rm -r MSOffice16/
+ 1231  rm -r MSOffice2007/
+ 1232  rm -r USBisAlive/
+ 1233  rm -r WhatsApp/
+ 1234  rm -r QRGenerator/
+ 1235  ls
+ 1236  rm -r SketchUp/
+ 1237  ls
+ 1238  cd vlcpayer/
+ 1239  ls
+ 1240  cd drive_c/
+ 1241  ls
+ 1242  cd ..
+ 1243  ls -n
+ 1244  netstat
+ 1245  googler download fence for linux
+ 1246  cd script
+ 1247  lsls
+ 1248  ls
+ 1249  figlet -f Basic "Shutdown"
+ 1250  figlet -f Big "Shutdown"
+ 1251  figlet -f Big "Shuting down"
+ 1252  figlet -f Big "Bye Bye"
+ 1253  figlet -f Big "Bye Bye Stephan"
+ 1254  nano shutdown.sh 
+ 1255  nano /root/.bashrc
+ 1256  shut
+ 1257  cd script
+ 1258  ls
+ 1259  chmod +x shutdown.sh 
+ 1260  shut
+ 1261  ./root/Evil-Droid/evildroid
+ 1262  sh /root/Evil-Droid/evil-droid
+ 1263  sudo /root/Evil-Droid/evil-droid 
+ 1264  ls
+ 1265  cd Evil-Droid/
+ 1266  lsl
+ 1267  ls
+ 1268  cd Desktop/
+ 1269  nano test
+ 1270  color
+ 1271  apt-get instal unetbootin
+ 1272  apt-get install unetbootin
+ 1273  apt-cache search bootin
+ 1274  apt-get update
+ 1275  apt-get upgrade
+ 1276  apt-get update
+ 1277  ls
+ 1278  fshow
+ 1279  h
+ 1280  cd script
+ 1281  ls
+ 1282  nano recondog.sh
+ 1283  sh recondog.sh 
+ 1284  h
+ 1285  ls
+ 1286  h
+ 1287  cat hscript.sh
+ 1288  h
+ 1289  cat hscript.sh > hscript.sh.backup 
+ 1290  h
+ 1291  h
+ 1292  cd TheFatRat/
+ 1293  lsl
+ 1294  ls
+ 1295  cd 
+ 1296  fatrat
+ 1297  ls
+ 1298  cd script
+ 1299  nano thefatrat.sh
+ 1300  chmod +x thefatrat.sh 
+ 1301  sh thefatrat.sh 
+ 1302  nano thefatrat.sh 
+ 1303  sh thefatrat.sh 
+ 1304  h
+ 1305  evildroid
+ 1306  nano evildroid.sh
+ 1307  ls
+ 1308  sh evildroid.sh 
+ 1309  nano evildroid.sh 
+ 1310  sh evildroid.sh 
+ 1311  h
+ 1312  nano evildroid.sh 
+ 1313  sh evildroid.sh 
+ 1314  nano evildroid.sh 
+ 1315  sh evildroid.sh 
+ 1316  ls
+ 1317  cd 
+ 1318  cd ReconDog/
+ 1319  ls
+ 1320  h
+ 1321  h
+ 1322  ls Stephanware
+ 1323  h
+ 1324  ln -s /root/.PlayOnLinux/wineprefix/ /root/Desktop/
+ 1325  shut
+ 1326  h
+ 1327  xdg-open /media/root/Stephanware/
+ 1328  #l
+ 1329  #
+ 1330  shut
+ 1331  cd script
+ 1332  ls
+ 1333  sh console.sh 
+ 1334  ls
+ 1335  cd ..
+ 1336  ls
+ 1337  cd Stephanware
+ 1338  ls
+ 1339  cd /home
+ 1340  lss
+ 1341  ls
+ 1342  locate venomAPK.sh
+ 1343  cd ..
+ 1344  locate venom
+ 1345  cd /home/payload/apk
+ 1346  ls
+ 1347  cat venom.sh 
+ 1348  ls
+ 1349  h
+ 1350  h
+ 1351  h
+ 1352  xdg-open Music/Aye\ Khuda\ -\ Murder\ 2\ 320Kbps.mp3 
+ 1353  h
+ 1354  xerosploit
+ 1355  h
+ 1356  nano /root/.bashrc
+ 1357  c
+ 1358  findmydevice
+ 1359  sh script/findmydevice.sh 
+ 1360  bye
+ 1361  h
+ 1362  locate website
+ 1363  locate nullbyte
+ 1364  cd /root/Desktop/tpoint/nullbyte
+ 1365  cd /root/Desktop/tpoint/
+ 1366  ls
+ 1367  ls -n
+ 1368  locate nullbyte
+ 1369  cd /media/root/Stephanware/websites/nullbyte/
+ 1370  ls -n
+ 1371  cd null-byte.wonderhowto.com/
+ 1372  ls
+ 1373  cd how-to/
+ 1374  ls
+ 1375  cat index.html
+ 1376  dir index.html 
+ 1377  h
+ 1378  python
+ 1379  cd script
+ 1380  lss
+ 1381  ls
+ 1382  mv just4fun/ ilearnBash
+ 1383  ls
+ 1384  cd ilearnBash/
+ 1385  ls
+ 1386  mkdir function
+ 1387  ls
+ 1388  cd function/
+ 1389  ls
+ 1390  nano func1.sh
+ 1391  chmod +x func1.sh 
+ 1392  sh func1.sh 
+ 1393  nano func1.sh 
+ 1394  sh func1.sh 
+ 1395  ls
+ 1396  sh func1.sh 
+ 1397  nano func1.sh 
+ 1398  sh func1.sh 
+ 1399  nano func1.sh 
+ 1400  sh func1.sh 
+ 1401  nano func1.sh 
+ 1402  sh func1.sh 
+ 1403  website
+ 1404  web
+ 1405  websites
+ 1406  h
+ 1407  echo "https://www.howtoforge.com/tutorial/linux-shell-scripting-lessons-5/" >> websites
+ 1408  cd script/ilearnBash/function/
+ 1409  ls
+ 1410  nano functionArgument.sh
+ 1411  chmod +x functionArgument.sh 
+ 1412  sh functionArgument.sh 
+ 1413  cd script/ilearnBash/function/
+ 1414  nano passingParameters.sh
+ 1415  nano visitme.sh
+ 1416  mv visitme.sh visitme
+ 1417  ls
+ 1418  cat visitme 
+ 1419  less script/hscript.sh
+ 1420  h
+ 1421  googler how to return value using funtion in bash script
+ 1422  bye
+ 1423  h
+ 1424  bye
+ 1425  googler Monsters.University.2013.720p.BluRay.x264.YIFY english subtitles download
+ 1426  mall
+ 1427  bye
+ 1428  mall
+ 1429  bye
+ 1430  xdg-open /media/root/Stephanware/websites/KDE_Dialog/
+ 1431  echo "https://techbase.kde.org/Development/Tutorials/Shell_Scripting_with_KDE_Dialogs" >> websites 
+ 1432  exit
+ 1433  cat websites 
+ 1434  cd script
+ 1435  mkdir gui
+ 1436  cd gui/
+ 1437  nano dialog.sh
+ 1438  nano dialog.sh 
+ 1439  chmod +x dialog.sh 
+ 1440  sh dialog.sh 
+ 1441  echo "apt-get install kde-baseapps-bin" >> apt
+ 1442  apt-get install kde-baseapps-bin
+ 1443  sh dialog.sh 
+ 1444  nano dialog.sh 
+ 1445  cd /media/root/Stephanware/websites/
+ 1446  lsl
+ 1447  ls
+ 1448  mkdir KDE_Dialog
+ 1449  cd KDE_Dialog/
+ 1450  lss
+ 1451  lsl
+ 1452  ls
+ 1453  httrack https://techbase.kde.org/Development/Tutorials/Shell_Scripting_with_KDE_Dialogs
+ 1454  httrack https://techbase.kde.org/Development/Tutorials/
+ 1455  wget man
+ 1456  man wget
+ 1457  wget -r https://techbase.kde.org/Development/Tutorials/Shell_Scripting_with_KDE_Dialogs
+ 1458  cd ..
+ 1459  nano msgbox.sh
+ 1460  chmod +x msgbox.sh 
+ 1461  sh msgbox.sh 
+ 1462  bash
+ 1463  h
+ 1464  bye
+ 1465  mall
+ 1466  cd script/ilearnBash/
+ 1467  ls
+ 1468  cd function/
+ 1469  ls
+ 1470  nano func2.sh
+ 1471  chmod +x func2.sh 
+ 1472  ls
+ 1473  sh func2.sh 
+ 1474  nano func2.sh
+ 1475  sh func2.sh 
+ 1476  googler Functions in Bash Script
+ 1477  mall
+ 1478  bye
+ 1479  ls -a
+ 1480  ls -
+ 1481  ls -n
+ 1482  ls -a
+ 1483  cd OLD/
+ 1484  ls
+ 1485  cd PY
+ 1486  cd PycharmProjects/
+ 1487  lsl
+ 1488  ls
+ 1489  cd HelloWorld/
+ 1490  lsl
+ 1491  ls
+ 1492  cd test/
+ 1493  ls
+ 1494  python helloUser.py 
+ 1495  python helloUser.py
+ 1496  exit
+ 1497  mall
+ 1498  bye
+ 1499  h
+ 1500  kdialog --checklist "Hacking" "Programming"
+ 1501  cd script/ilearnBash/
+ 1502  ls
+ 1503  cd function/
+ 1504  lsls
+ 1505  ls
+ 1506  cd ..
+ 1507  cd .
+ 1508  cd ..
+ 1509  ls
+ 1510  cd gui/
+ 1511  lsl
+ 1512  ls
+ 1513  sh dialog.sh 
+ 1514  cat dialog.sh 
+ 1515  sh dialog.sh 
+ 1516  mall
+ 1517  area51
+ 1518  mall
+ 1519  area51
+ 1520  mall
+ 1521  bye
+ 1522  cd /home/script/
+ 1523  tree
+ 1524  cd shell-script-examples/
+ 1525  ls
+ 1526  sh 100-hangman.sh 
+ 1527  sh 101-states.sh 
+ 1528  sh 061-getlinks.sh 
+ 1529  cat 061-getlinks.sh 
+ 1530  cd  /MU
+ 1531  cd /root/Music/
+ 1532  ls
+ 1533  #
+ 1534  EXI
+ 1535  exit
+ 1536  mall
+ 1537  bye
+ 1538  h
+ 1539  i
+ 1540  h
+ 1541  i
+ 1542  h
+ 1543  cd /usr/share/
+ 1544  ls
+ 1545  cd playonlinux/
+ 1546  lsl
+ 1547  ls
+ 1548  cd python/
+ 1549  ls
+ 1550  cd ..
+ 1551  ls
+ 1552  cd plugins/
+ 1553  cd ..
+ 1554  cd playonlinux
+ 1555  lsl
+ 1556  ls
+ 1557  cd resources/
+ 1558  lsl
+ 1559  ls
+ 1560  cd sounds/
+ 1561  ls
+ 1562  exit
+ 1563  bye
+ 1564  h
+ 1565  cat websites b
+ 1566  cat websites 
+ 1567  cd script
+ 1568  cd ilearnBash/
+ 1569  cd  function/
+ 1570  ls
+ 1571  nano calc.sh
+ 1572  chmod +x cl
+ 1573  chmod +x calc.sh 
+ 1574  sh calc.sh 
+ 1575  nano calc.sh 
+ 1576  sh calc.sh 
+ 1577  nano calc.sh 
+ 1578  sh calc.sh 
+ 1579  nano calc.sh 
+ 1580  sh calc.sh 
+ 1581  nano calc.sh 
+ 1582  sh calc.sh 
+ 1583  1
+ 1584  sh calc.sh 
+ 1585  nano calc.sh 
+ 1586  sh calc.sh 
+ 1587  nano calc.sh 
+ 1588  sh calc.sh 
+ 1589  nano calc.sh 
+ 1590  sh calc.sh 
+ 1591  nano calc.sh 
+ 1592  bye
+ 1593  cat websites 
+ 1594  cd script/ilearnBash/function/
+ 1595  ls -n
+ 1596  nano calc.sh 
+ 1597  sh calc.sh 
+ 1598  nano calc.sh 
+ 1599  sh calc.sh 
+ 1600  nano calc.sh 
+ 1601  sh calc.sh 
+ 1602  nano calc2.sh
+ 1603  chmod +x calc2.sh 
+ 1604  sh calc2.sh 
+ 1605  nano calc2.sh 
+ 1606  nano calc.sh 
+ 1607  sh calc.sh 
+ 1608  nano calc.sh 
+ 1609  sh calc.sh 
+ 1610  nano calc.sh 
+ 1611  sh calc.sh 
+ 1612  nano calc.sh 
+ 1613  sh calc.sh 
+ 1614  nano calc.sh 
+ 1615  h
+ 1616  bye
+ 1617  h
+ 1618  mall
+ 1619  cd script
+ 1620  lsl
+ 1621  ls
+ 1622  h
+ 1623  bye
+ 1624  fdisk
+ 1625  fdisk -l
+ 1626  umount /root/Pictures
+ 1627  umount /home/picture
+ 1628  ls
+ 1629  cd /home/picture/
+ 1630  ls
+ 1631  cd ..
+ 1632  cd script/
+ 1633  ls
+ 1634  nano mountall.sh 
+ 1635  ls
+ 1636  ls -n
+ 1637  nano mrrobotserver.sh 
+ 1638  eject
+ 1639  h
+ 1640  exit
+ 1641  mall
+ 1642  xdg-open Music/
+ 1643  mall
+ 1644  bye
+ 1645  mall
+ 1646  cd /media/root/GhostDrive/
+ 1647  ls -n
+ 1648  dir
+ 1649  cd StephanWarePC/
+ 1650  dir
+ 1651  cd VisualStudio/
+ 1652  dir
+ 1653  cd Challan/
+ 1654  ls
+ 1655  idr
+ 1656  dir
+ 1657  cd AdvanceChallan
+ 1658  ls
+ 1659  xdg-open clone.html 
+ 1660  cd ..
+ 1661  ls
+ 1662  dir
+ 1663  cd ..
+ 1664  ls
+ 1665  dir
+ 1666  mall
+ 1667  area51
+ 1668  bye
+ 1669  cd /home
+ 1670  ls
+ 1671  tree /home
+ 1672  ls
+ 1673  cd /media
+ 1674  ls
+ 1675  cd root
+ 1676  ls
+ 1677  cd Stephanware/
+ 1678  ls
+ 1679  ls -n
+ 1680  cd /usr
+ 1681  ls
+ 1682  cd share
+ 1683  ls
+ 1684  ls -n
+ 1685  cd arp-scan
+ 1686  lsl
+ 1687  ls
+ 1688  cat mac-vendor.txt 
+ 1689  cat /path
+ 1690  ls
+ 1691  cd /root/path
+ 1692  cat /root/path
+ 1693  ls
+ 1694  cd ..
+ 1695  ls -n
+ 1696  cd apache2
+ 1697  ls
+ 1698  cat apache2-maintscript-helper 
+ 1699  cd ..
+ 1700  ls
+ 1701  cd /run
+ 1702  ls
+ 1703  cat /root/path
+ 1704  cd user/
+ 1705  ls
+ 1706  cd 0
+ 1707  lsl
+ 1708  ls
+ 1709  cd gvfs
+ 1710  ls
+ 1711  l
+ 1712  ls
+ 1713  cd /dev
+ 1714  ls
+ 1715  cd disk
+ 1716  ls
+ 1717  cd by-label/
+ 1718  ls
+ 1719  cd ..
+ 1720  ls
+ 1721  cd by-pa
+ 1722  cd by-path/
+ 1723  lsl
+ 1724  ls
+ 1725  cd ..
+ 1726  ls
+ 1727  cd by-id/
+ 1728  ls
+ 1729  cd 
+ 1730  pwd
+ 1731  cd /media/root
+ 1732  ls
+ 1733  cd ~
+ 1734  cd /media/root
+ 1735  cd 
+ 1736  ls -al
+ 1737  apt-cache search mitmf
+ 1738  apt-get install mitmf
+ 1739  mitmf
+ 1740  cd MITMf
+ 1741  ls 
+ 1742  git clone https://github.com/byt3bl33d3r/MITMf
+ 1743  cd MITMf/
+ 1744  ls
+ 1745  git submodule init
+ 1746  git submodule init && git submodule update --recursive pip2 install -r requirements.txt
+ 1747  nbtscan
+ 1748  nbtscan -l
+ 1749  nbtscan -r
+ 1750  ifconfig
+ 1751  cd 
+ 1752  cat apt
+ 1753  apt-get install build-essential dkms
+ 1754  mall
+ 1755  ping google.com
+ 1756  ifconfig
+ 1757  netstat
+ 1758  ls
+ 1759  googler nullbyte.wonderhowto.com
+ 1760  mall
+ 1761  vmware
+ 1762  apt-cache search chrome
+ 1763  bye
+ 1764  mall
+ 1765  aircrack-ng -w /home/wordlist/rockyou.txt 
+ 1766  echo "superuser" >> /home/wordlist/rockyou.txt 
+ 1767  aircrack-ng -w /home/wordlist/rockyou.txt -b 40:C8:CB:19:0F:07 /root/Desktop/Capture/CrackWPA-01.cap 
+ 1768  cd /home/wordlist/
+ 1769  ls -n
+ 1770  cd wpa-wordlists/
+ 1771  ls
+ 1772  ls -all
+ 1773  ls -al
+ 1774  cd ..
+ 1775  ls
+ 1776  ls -n
+ 1777  rm -p wpa-wordlists/
+ 1778  man rm
+ 1779  rm -i wpa-wordlists/
+ 1780  rm -r -i wpa-wordlists/
+ 1781  ls
+ 1782  ls -n
+ 1783  rm -r wpa-wordlists/
+ 1784  ls
+ 1785  ls -n
+ 1786  cd /home/script/ilearnBash/function/
+ 1787  ls
+ 1788  sh calc2.sh 
+ 1789  nano calc2.sh 
+ 1790  cd /home/wordlist/
+ 1791  ls -n
+ 1792  wc -l onelist.sh 
+ 1793  man wc
+ 1794  wc mypasswordlist.txt 
+ 1795  aircrack-ng -w /home/wordlist/mypasswordlist.txt -b 40:C8:CB:19:0F:07 /root/Desktop/Capture/CrackWPA-01.cap 
+ 1796  echo "superuser" >> mypasswordlist.txt 
+ 1797  aircrack-ng -w /home/wordlist/mypasswordlist.txt -b 40:C8:CB:19:0F:07 /root/Desktop/Capture/CrackWPA-01.cap 
+ 1798  ls
+ 1799  sh onelist.sh 
+ 1800  cat onelist.sh 
+ 1801  sh onelist.sh 
+ 1802  cat onelist.sh 
+ 1803  nano onelist.sh 
+ 1804  sh onelist.sh 
+ 1805  nano onelist.sh 
+ 1806  ./onelist.sh 
+ 1807  nano onelist.sh 
+ 1808  ./onelist.sh 
+ 1809  ls -n *.txt
+ 1810  cat mergedinfo.txt 
+ 1811  nano onelist.sh 
+ 1812  bye
+ 1813  cd Desktop/
+ 1814  lsl
+ 1815  ls
+ 1816  cd Capture/
+ 1817  ls
+ 1818  rm -f *.*
+ 1819  ls
+ 1820  airodump-ng --bssid 40:C8:CB:19:0F:07 -c 8 -write /root/Desktop/Capture/CrackWPA wlan0mon
+ 1821  airodump-ng --bssid 40:C8:CB:19:0F:07 -c 8 --write /root/Desktop/Capture/CrackWPA wlan0mon
+ 1822  ifconfig
+ 1823  airmon-ng start wlan0
+ 1824  airmon-ng wlan0
+ 1825  airodump-ng wlan0mon
+ 1826  hackwifi
+ 1827  exit
+ 1828  ls > list.txt
+ 1829  less list.txt 
+ 1830  mv list.txt /media/root/Stephanware/videos/.restricted/
+ 1831  wireshark
+ 1832  keepnote
+ 1833  mv Desktop/Aadhaar_814165.pdf /home/backup/
+ 1834  exit
+ 1835  wc -l kjbible.txt 
+ 1836  less kjbible.txt 
+ 1837  mv kjbible.txt /home/wordlist/
+ 1838  mv FullMetal.Alchemist.2017.1080p.NF.WEB-DL.DD5.1.srt /media/root/Stephanware/videos/movies/
+ 1839  area51
+ 1840  ls *.torrent
+ 1841  mkdir torrent
+ 1842  mv -f *.torrent
+ 1843  mv -f *.torrent torrent/
+ 1844  cd ..
+ 1845  cd VidMate/download/
+ 1846  mkdir music
+ 1847  mv *.mp4 music/
+ 1848  googler Kitaben Bahut Si Baazigar download music
+ 1849  bye
+ 1850  wc -l crackstation-human-only.txt
+ 1851  less crackstation-human-only.txt
+ 1852  cp crackstation-human-only.txt /home/wordlist/
+ 1853  ls /home/wordlist/
+ 1854  fdisk -l
+ 1855  hackwifi
+ 1856  fdisk -l
+ 1857  mall
+ 1858  cd /Stephanware/videos/
+ 1859  ls
+ 1860  ls -n
+ 1861  cd /
+ 1862  lsl
+ 1863  ls -n
+ 1864  figlet -f Nancyj-Fancy "Wordlist"
+ 1865  figlet -f Nancyj-Fancy "WORDLIST"
+ 1866  figlet -f Nancyj-Fancy "WLIST"
+ 1867  figlet -f Nancyj-Fancy "Wlist"
+ 1868  figlet -f Nancyj-Fancy "wordlist"
+ 1869  figlet -f Nancyj-Fancy "wordlists"
+ 1870  color
+ 1871  ln -s /home/wordlist/ /
+ 1872  ls -n
+ 1873  cd /
+ 1874  ls 
+ 1875  ls -n
+ 1876  cd 
+ 1877  cd /wordlist/
+ 1878  ls -al
+ 1879  sh onelist.sh 
+ 1880  fshow
+ 1881  hotspot
+ 1882  service apache2 start
+ 1883  ifconfig
+ 1884  sh ono
+ 1885  sh onelist.sh 
+ 1886  cd script
+ 1887  ls
+ 1888  cd 
+ 1889  cd /home/wordlist/
+ 1890  ls -n
+ 1891  nano onelist.sh 
+ 1892  sh onelist.sh 
+ 1893  nano onelist.sh 
+ 1894  sh onelist.sh 
+ 1895  nano onelist.sh 
+ 1896  sh onelist.sh 
+ 1897  nano onelist.sh 
+ 1898  sh onelist.sh 
+ 1899  nano onelist.sh 
+ 1900  sh onelist.sh 
+ 1901  nano onelist.sh 
+ 1902  sh onelist.sh 
+ 1903  nano onelist.sh 
+ 1904  sh onelist.sh 
+ 1905  nano onelist.sh 
+ 1906  sh onelist.sh 
+ 1907  nano onelist.sh 
+ 1908  sh onelist.sh 
+ 1909  nano onelist.sh 
+ 1910  sh onelist.sh 
+ 1911  nano onelist.sh 
+ 1912  sh onelist.sh 
+ 1913  nano onelist.sh 
+ 1914  bye
+ 1915  mall
+ 1916  area51
+ 1917  ls -n
+ 1918  vls
+ 1919  vlc
+ 1920  cd s
+ 1921  cd /root/script
+ 1922  nano vlc.sh
+ 1923  chmod +x vlc.sh 
+ 1924  ls -n
+ 1925  sh vl
+ 1926  sh vlc.sh 
+ 1927  exit
+ 1928  nano /root/.bashrc
+ 1929  vlc
+ 1930  nano /root/.bashrc
+ 1931  ls -n
+ 1932  area51
+ 1933  h
+ 1934  cd script
+ 1935  ls
+ 1936  cd 
+ 1937  ls -n
+ 1938  ln -s /home/wordlist/ /root/
+ 1939  ls -n
+ 1940  cd wordlist
+ 1941  sh onelist.sh 
+ 1942  nano onelist.sh 
+ 1943  mv Stephanware stephanware
+ 1944  ls
+ 1945  cd stephanware
+ 1946  area51
+ 1947  ls -n
+ 1948  h
+ 1949  bye
+ 1950  mall
+ 1951  bye
+ 1952  h
+ 1953  nano script/shutdown.sh 
+ 1954  bye
+ 1955  mall
+ 1956  h
+ 1957  alias
+ 1958  venom
+ 1959  ls /home/payload/apk/
+ 1960  ln -s /home/payload/apk/ /root/Desktop/links/
+ 1961  cd /root/Desktop/
+ 1962  cd links/
+ 1963  ls -n
+ 1964  ls -n > link_path.txt
+ 1965  ls
+ 1966  less link_path.txt 
+ 1967  cd stephanware/backup/
+ 1968  cd google/
+ 1969  lsl
+ 1970  ls
+ 1971  sh pk919@gmail.sh 
+ 1972  nano pk919@gmail.sh 
+ 1973  fshow
+ 1974  cd stephanware/backup/google/
+ 1975  sh pk919@gmail.sh 
+ 1976  cd /media/root/
+ 1977  ls
+ 1978  fdisk -l
+ 1979  cd 
+ 1980  bye
+ 1981  cd Desktop/
+ 1982  ls
+ 1983  rm -i code.png 
+ 1984  ls
+ 1985  rm -i -f code.png 
+ 1986  ls
+ 1987  rm -f qr.png 
+ 1988  ls
+ 1989  cd 
+ 1990  ls
+ 1991  ls -n
+ 1992  ls
+ 1993  xdg-open iPhone\ X\ —\ Unlock\ —\ Apple-svsHdrJ62Y8.mkv 
+ 1994  h
+ 1995  l
+ 1996  bash
+ 1997  alias > alias_07062018
+ 1998  cat /root/.bashrc > bashrc_07062918
+ 1999  cat /root/.bashrc > bashrc_07062018
+ 2000  history
+ 2001  history > history_07062018

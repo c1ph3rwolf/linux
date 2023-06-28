@@ -1,0 +1,66 @@
+Microsoft Windows [Version 6.1.7600]                                                         
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.                              
+
+stephan@HOMEPC C:\Users\stephan>net user                                                     
+
+User accounts for \\HOMEPC                                                                   
+
+-------------------------------------------------------------------------------              
+Administrator            Guest                    stephan                                    
+The command completed successfully.                                                          
+
+
+stephan@HOMEPC C:\Users\stephan>net user stephan                                             
+User name                    stephan                                                         
+Full Name                    Stephan                                                         
+Comment                      user = > Stephan                                                
+User's comment                                                                               
+Country code                 000 (System Default)                                            
+Account active               Yes                                                             
+Account expires              Never                                                           
+
+Password last set            12/23/2022 7:38:52 AM                                           
+Password expires             Never                                                           
+Password changeable          12/23/2022 7:38:52 AM                                           
+Password required            Yes                                                             
+User may change password     Yes                                                             
+
+Workstations allowed         All                                                             
+Logon script                                                                                 
+User profile                                                                                 
+Home directory                                                                               
+Last logon                   12/23/2022 7:45:24 AM                                           
+
+Logon hours allowed          All                                                             
+
+Local Group Memberships      *Administrators       *Users                                    
+Global Group memberships     *None                                                           
+The command completed successfully.                                                          
+
+stephan@HOMEPC C:\Users\stephan>net user stephan *                                           
+Type a password for the user: 764289                                                                
+Retype the password to confirm: 764289                                                              
+The command completed successfully.                                                          
+                                                                                             
+                                                                                             
+stephan@HOMEPC C:\Users\stephan> 
+stephan@HOMEPC C:\Users\stephan>ipconfig                                                     
+                                                                                             
+Windows IP Configuration                                                                     
+                                                                                             
+                                                                                             
+Ethernet adapter Local Area Connection:                                                      
+                                                                                             
+   Connection-specific DNS Suffix  . :                                                       
+   IPv6 Address. . . . . . . . . . . : 2405:201:a407:e1c7:eccf:ccd5:26c8:1fab                
+   Temporary IPv6 Address. . . . . . : 2405:201:a407:e1c7:59c8:79d3:ad8d:fa7f                
+   Link-local IPv6 Address . . . . . : fe80::eccf:ccd5:26c8:1fab%11                          
+   IPv4 Address. . . . . . . . . . . : 192.168.29.200                                        
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0                                         
+   Default Gateway . . . . . . . . . : fe80::aada:cff:fe85:a06e%11                           
+                                       192.168.29.1                                          
+                                                                                             
+Tunnel adapter isatap.{9E87020A-9A4A-4B12-A196-3D9DE307CBD3}:                                
+                                                                                             
+   Media State . . . . . . . . . . . : Media disconnected                                    
+   Connection-specific DNS Suffix  . :                                                                                                                    

@@ -1,0 +1,243 @@
+ _  __     _ _   _     _                    ____  _ _     _      
+| |/ /__ _| (_) | |   (_)_ __  _   ___  __ | __ )(_) |__ | | ___ 
+| ' // _` | | | | |   | | '_ \| | | \ \/ / |  _ \| | '_ \| |/ _ \
+| . \ (_| | | | | |___| | | | | |_| |>  <  | |_) | | |_) | |  __/
+|_|\_\__,_|_|_| |_____|_|_| |_|\__,_/_/\_\ |____/|_|_.__/|_|\___|
+                                                                 
+
+Keys
+
+Ctrl+L     clear the terminal window text
+Ctrl+D     close the terminal window
+Ctrl+Alt+T open a new terminal window tab
+Ctrl+C     stop the execution of any tool
+reboot     restart kali linux
+poweroff   shut donw kali linux
+history    get the list recent executed commands
+   |       using pipe [ | ] you can combine the output of each command 
+	   and send it to the next one usig the | character
+	   example : $command1 | command2 | command3
+
+	┌──(kali㉿kali)-[/usr/kali/test]
+	└─$ cat ls_root.txt | grep Aug
+
+	  The Above command does is read the file name [ls_root.txt] and
+	  then sort the result and finally use the [grep] command to 
+	  filter out some text strings (the goal is  to extract the files
+	  that start with the word [Aug]
+
+-----------------------[Users Commands]------------------------------------------
+fdisk -l
+passwd <username>
+su <username>   switch user
+w         TO list the currently logged on users also [who]
+who       who is currently logged in as 
+[useradd]
+sudo useradd -m test -G sudo -s /bin/bash => add new user [test]
+└─$ sudo useradd -m stephan -G sudo -s /bin/bash
+sudo userdel test         => delete user [test]
+[/etc/passwd]
+┌──(kali㉿kali)-[~]
+└─$ cat /etc/passwd      => will list all the users,even the system ones
+└─$ cat /etc/passwd grep "/bin/bash" => filter the contents and 
+					limit the results for the human users
+					pip the output using the | grep command
+        
+	
+------------------------[Groups Commands]------------------------------
+$ groupadd [new-group-name] => To add a new group in kali linux.
+└─$ sudo groupadd hackers   => Adds new group named [hackers]
+[usermod]
+$usermod -aG [group-name] [user-name] => To Join a user to the group name
+$sudo usermod -aG hackers test
+[/etc/group]
+$cat /etc/group => list all the group created in kali linux
+$ last => list the las logged in users in the kali system
+
+-------------[Managing Files and Directories]---------------------------
+$ ls -la => list all the files and directories hidden/visible
+$ chmod +x <filename> => allows the execution of a file to everyone
+$ chmod -x <filename> => remove the execution of a file for everyone
+
+-------------[Permissions]----------------------
+┌──(kali㉿kali)-[/home/stephan]
+└─$ ls -l                       
+total 8
+-rw------- 1 stephan hackers   31 Dec 22 05:15 hellolinux.sh
+-rw-r--r-- 1 root    root    1610 Dec 22 04:52 terminal_history
+
+# Note -> Here 'hellolinux.sh' is only readable(4)|writable(2) by user:stephan and
+#   	  members of the group hackers and others cannot read(4)/write(2)/execute(1)
+#	  this file only the user-> stephan
+#Here -> command $chmod 600 hellolinux.sh (has been used to remove all read/write 
+#         permission from groups and others except the user->in this case stephan                                                                           
+┌──(kali㉿kali)-[/home/stephan]
+└─$ sh hellolinux.sh 
+sh: 0: cannot open hellolinux.sh: Permission denied
+                                                                           
+┌──(kali㉿kali)-[/home/stephan]
+└─$ ./hellolinux.sh 
+zsh: permission denied: ./hellolinux.sh
+
+                                                                           
+┌──(root㉿kali)-[/home/stephan]
+└─# ./hellolinux.sh 
+zsh: permission denied: ./hellolinux.sh
+ 
+# Indeed,the root has no permission can execute it,right!
+# different numbers assigned as permission -> (r=4,w=2 and x=1)
+# based on the above formula numbers,use this
+#        => User:4+2+1=7; Group:4+2+1=7;Everyone:4
+# 	
+
+---------------------[Manipulating Files in Kai]-------------------
+$ touch <newfile>                  => Create new empty file in linux
+$ echo 'text to add' > <filename>  => Insert text quickly into a file
+$ file <filename>                  => Know a file type in a linux system
+$ cp [source-file-path] [destination-file-path] => Copy a file in Kali
+$ mv [source-file-path] [destination-file-path] => Move a file 
+$ rm [file-path-that-you-want-to-delete] => Delete the file 
+$ mv [original-file-name] [new-file-name]=> Rename the previous file
+---------------------[Searching for Files]-------------------------
+[updatedb]
+$ updatedb  => first,update the database for the locate command to work properly
+[locate]
+$ locate [file-name] => this command locates a file that you're looking for quickly. 
+		       by searching for data stored in a database
+[which]
+$ which [application name] = find application path
+┌──(root㉿kali)-[~]
+└─# which python        
+/usr/bin/python
+$PATH     => use $PATH to execute binaries.If you run it in the	terminal window,it will	display	all the	directories
+	     where you should save your	programs/scripts (if you want to execute them without specifying their path):
+$ find /root -name 'file1.txt' = To find file1.txt under the root home directory,use this
+└─# /root/temp/file1.txt
+$f ind / -size +1G 2> /dev/null/proc/kcore => list the large files(1GB+) in the following directory /dev/null/proc/kcore
+
+----------------------------[File Compression]--------------------------------
+[Tar Archive]
+$ tar cf compressed.tar [file1 file2] => To Compress
+└─# tar cf compressed.tar hellolinux.sh terminal_history   [cf=compress-files]
+$ tar xf compressed.tar => To Extract a tar compressed file;[xf=extract-files]
+[Gz Archive]
+$ tar cfz compressed.tar.gz files
+$ tar xfz compressed.tar.gz
+$ gzip file.txt 
+$ gzip file.txt > compressed.txt.gz => To create a compressed.txt.gz file
+$ gzip -d compressed.txt.gz         => To extract a compressed.txt.gz
+[Zip Archive]
+$ zip compressed.zip [file1 file2] => To create zip files
+$ unzip compressed.zip	  => To extract zip file
+
+----------------------------[Manipulating Directories]---------------------
+[pwd]
+$ pwd  => Print the current working directory 
+[cd]
+$ cd   => To Change the current working directory
+[~]
+$ cd ~ => Go directly to your current user home directory
+[mkdir]
+$ mkdir [new-directory-name]
+[copy/move/delete]
+$ cp -r [source-dir-path] [destination-dir-path] => -r stands for recursive
+$ mv -f [original-dir-name] [new-directory-name] => rename directory name
+$ rm -r [folder-to-delete-path]
+
+--------------------------[Mounting a Directory]---------------------------
+#Let's suppose you inserted a USB key; then mounting a directory is necessary to
+#access your USB drive contents.
+
+#To mount a USB	drive, follow these steps:
+#[1] Display the disk list using the [lsblk] command.
+[lsblk]
+________________/Before Inserting the usb drive/_________________
+┌──(stephan㉿kali)-[~/klinux]
+└─$ lsblk
+NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda      8:0    0 80.1G  0 disk 
+└─sda1   8:1    0 80.1G  0 part /
+sr0     11:0    1 1024M  0 rom  
+_______________/After Inserting the usb drive/___________________
+┌──(stephan㉿kali)-[~/klinux]
+└─$ lsblk
+NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda      8:0    0 80.1G  0 disk 
+└─sda1   8:1    0 80.1G  0 part /
+sdb      8:16   1 28.7G  0 disk 
+└─sdb1   8:17   1 28.7G  0 part 
+sr0     11:0    1 1024M  0 rom  
+
+[mkdir]
+#[2] Create a new directory to be mounted (this is where you will access the USB stick drive).
+┌──(stephan㉿kali)-[~]
+└─$ mkdir usb_sandisk
+
+[mount]
+#[3] Mount the USB Drive using the [mount] command
+┌──(stephan㉿kali)-[~]
+└─$ sudo mount /dev/sdb1 /home/stephan/usb_sandisk/
+[sudo] password for stephan: 764289
+
+[copy/move/delete]
+#[4] Do file operation 
+┌──(stephan㉿kali)-[~]
+└─$ sudo cp -r /media/sf_Kali/ /home/stephan/usb_sandisk/
+
+[umount]
+#[5] Now to Eject the USB Drive,use the [umount] command to unmount the directory
+┌──(stephan㉿kali)-[~]
+└─$ sudo umount /home/stephan/usb_sandisk 
+
+Note : It is advisible to mount drives in [/mnt] directory for easy references
+
+--------------------[Managing Text Files in Kali Linux]----------------------
+[cat]
+┌──(kali㉿kali)-[/usr/share/wordlists]
+└─$ cat rockyou.txt| grep stephan1 
+stephan1
+stephan1e
+stephan13
+stephan11
+stephan17
+stephan123
+[..]
+
+[head]
+$ head rockyou.txt       => Will display 10 lines in a text file starting from top
+$ head -n 15 rockyou.txt => specify how many lines u want to display  
+[tail]
+$ tail rockyou.txt       => Will display 10 lines in a text file starting from bottom
+$ tail -n 12 rockyou.txt => specified to display 12 lines in a text file 
+[more/less]
+$ less wifite.txt        => faster than the more command as it doesnot load the entire file at once.
+[sort]
+$ sort [filename] > [new sorted filename] => To sort the text file
+┌──(root㉿kali)-[/usr/share/wordlists]
+└─# sort wifite.txt > wifite_sorted.txt
+[uniq]
+$ uniq [file-name] > [no-duplicate-file-name] => To remove duplicates in a text file
+┌──(stephan㉿kali)-[~]
+└─$ uniq sorted.nums.txt > uniq.sorted.nums.txt
+-------------------------[Text Filter and Search]----------------------
+[grep]
+$ grep [options] [pattern] [file name]
+$ grep -c "password" rockyou.txt => Count the number of occurences of word 
+└─> 3959			   password in the dictionary file rockyou.txt	
+[awk]
+$ awk /[search criteria]/ [option] [file name]
+
+$ awk '/root/' /etc/passwd
+└─> root:x:0:0:root:/root:/usr/bin/zsh
+    nm-openvpn:x:114:120:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+
+$ awk '/kali/' /etc/shadow    => Extract the password of the [user:kali] in the [/etc/shadow]
+└─> kali:$y$j9T$syJ4c33f2G3t4qhVR/geu.$0RGhUWfVibVvPWIP3hcZD.b859AGmMtdPyTvmc5tLxC:19212:0:99999:7:::
+
+$ awk -F ':' '/kali/{print $2}' /etc/shadow
+└─> $y$j9T$syJ4c33f2G3t4qhVR/geu.$0RGhUWfVibVvPWIP3hcZD.b859AGmMtdPyTvmc5tLxC
+
+[cut]
+$ cat /etc/shadow | grep 'kali' | cut -d ':' -f 2
+└─> $y$j9T$syJ4c33f2G3t4qhVR/geu.$0RGhUWfVibVvPWIP3hcZD.b859AGmMtdPyTvmc5tLxC
+

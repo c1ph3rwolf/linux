@@ -1,0 +1,84 @@
+########################### Basic Linux Commands ##########################
+Commands                               Descriptions
+-----------------------------------------------------------------------------
+gnome-terminal                        - Open new Terminal
+xterm                                 - Open small terminal
+ifconfig                              - Show Network Cards
+iwconfig                              - Show Monitor Cards
+leafpad /root/.bashrc                 - open .bashrc in leafpad
+ln -s <dir> | <file>                  - create shortcut
+service start apache2                 - start apache2 localhost server
+dpkg --configure -a                   - package configuration command
+youtube-dl <url.link.of.youtube>      - download youtube
+/sbin/shutdown -r                     - shutdown Kali Linux System
+sudo apt install <./name.deb          - You can install it by sudo apt install  /path/to/package/name.deb . ...
+xdg-open dir | file                   - open expolorer or file from Gnome-Terminal
+chmod +x <file.sh> | <just file>      - Make Script File Executables
+./script.sh                           - launch scripts
+nmap -T4 -vv -A 10.42.0.207           - NMAP Scan the Network
+sh /path_to_script/script.sh          - Launch(.sh) bash-scripts
+####################### Mount Partition Disk ##############################
+
+fdisk -l                              - List All Formate Disks
+mount /dev/sda3 /media/root/disk_name - Mount Disks
+
+#########  Launching your script at startup ################################
+
+sudo cp /path_to_script/script.sh /etc/init.d/ -- Copy Script to (init.d) 
+sudo update-rc.d script.sh defaults   -- involke update-rc.d with
+          
+sudo rm /etc/init.d/script.sh         -- removing the script from startup(init.d)  
+sudo update-rc.d script.sh remove     -- removing the script from startup(updat-rc.d)
+
+############################ Apache2 Linux Server ###########################
+
+sudo systemctl start apache2.service   --  Start Apache2 Server
+sudo systemctl stop apache2.service    --  Stop  Apache2 Server
+systemctl restart apache2.service      --  Restart Apache2 Server
+---------------------------------------OR--------------------------
+/etc/init.d/apache2 restart            -- Restart Apache 2 web server
+/etc/init.d/apache2 stop.              -- To stop Apache 2 web server
+
+ !!!!! Command to know what IP and Port is your server Listening to !!!
+netstat -nap | grep apache2 | more
+-------------------------------------------------------------------------------
+To Launch AndroidStudio from the any terminal 
+Add an alias for 'android',to run  it from the terminal.
+Open the /root/.bashrc file and type in
+alias android="sh path/to/your/studio.sh"
+and save it.Restart the terminal 
+Now
+When you want to start Android,just type 'android'
+from the terminal
+------------------------------------------------------------------------------
+nm-connection-editor  Turn Hotspot On
+ hydra -L /home/wordlist/rockyou.txt -P /home/wordlist/rockyou.txt ftp://182.50.135.115 
+----------------------------------------------------------------------------------
+ech 1 > /proc/sys/net/ipv4/ip_forward     Port FOrwarding
+ip route
+wc -l <file-list.txt or anything.vCard >  Count the numbr ofthe ist persent
+arp-scan -I wlan1 -l
+apktool d -f -o /root/Desktop/payload /root/Desktop/hackme.apk
+sudo cp -R * /usr/share/figlet
+y
+
+
+figlet -f Doh "CMD"
+command here
+apt-get install qrencode
+qrencode -o "output-file.png" "Your-text-here"
+apt-get install wine32
+df
+unrar e <rar file here>
+exiftool <image file here> 
+nslookup ipAddress
+nc -l -p <port no> - Open Port for Chat (Command to be executed on the Server Machine
+telnet <chat server ip addr> <port which is opened for communication>   - Command to be executed on the client machine 
+telnet 192.168.87.129 
+
+########################################################################
+dpkg --get-selections | awk '/\Winstall/{print $1}'              generate a list of all the installed packages
+dpkg-query -l | grep <some_package_name> | wc -l 
+dpkg-query -l                                             show the list of all the package in the database 
+dpkg --get-selections <package-name>
+date | awk '/\WIST/{print }'      - Save Time 

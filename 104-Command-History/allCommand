@@ -1,0 +1,140 @@
+A-Z commands
+------------File Commands--------------
+ls                    - Directory Listing
+ls -al                - Formated listing with hidden files
+cd dirname            - Change Directory to dir
+pwd                   - Show Current Directory
+mkdir dir             - Create Directory
+rm file               - delete file
+rm -r dir             - delete directory dir
+rm -f file            - force remove file
+cp file1 file2        - copy file1 to file2
+mv -i file1 file2        - rename file1 to file2
+ln -s file link       - Create Symbolic link link to file
+touch fiile           - Create or Update File
+cat file              - Place standard input into file
+more file             - output the content of the file
+less file             - output the content of the file
+head file             - output first 10 lines of the file
+tail file             - output last 10 lines of the file
+tail -f file          - output contents of file as it grows
+-----------SSH Commands -----------------
+ssh user@host         - connect to host as user
+ssh -p port user@host - connect using port p
+ssh -D port user@host - connect and use bind port
+----------- Network Commands -------------
+ping host             - ping host host
+whois domain          - get whois for domain
+dig domain            - get DNS for domain
+dig -x host           - reverse lookup host
+wget file             - download file
+wget -c file          - continue stopped downloads
+wget -r url           - recursively download file from url
+------------ System-Info Commands --------------
+date                  - show current date/time
+cal                   - show this month's calendar 
+uptime                - show uptime 
+w                     - display who is online and what they are doing
+whoami                - who are you logged in as 
+uname -a              - show kernal config
+cat /proc/cpuinfo     - cpu info
+cat /proc/meminfo     - memory information
+man command           - show manuel for command 
+df                    - show disk usage 
+du                    - show directory space usage
+du -sh                - human readable size in GB
+free                  - show memory and swap usage 
+whereis app           - show possible location of app
+which app             - show which app will be run by default
+------------- Searching Commands -----------------
+grep pattern files    - search for pattern in files
+grep -r pattern dir   - search recursively for pattern in dir
+command | grep pattern- search for pattern in the output of command
+locate file           - find all instances of file
+-------------- Process Management ----------------
+ps                    - display currently active process
+ps aux                - ps with a lot of details
+kill pid              - kill process with pid 'pid'
+killall proc          - kill al process named proc
+bg                    - lists background jobs
+fg                    - bring most recent job to foreground
+fg n                  - bring job n to foreground
+------------- File Permissions  -------------------------
+chmod file            - change permission of file
+                        4 - read(r)
+                        2 - write(w)
+                        1 - execute(x)
+eg:
+chmod 777 -rwx for everyone
+chmod 755 -rwx for owner,rx for group|world
+               or
+chmod +x <file.sh>    
+--------------- Terminal Shorcuts  -----------------------
+ctrl+c              -  cancel current command
+ctrl+z              -  stops current  command
+ctrl+d              -  log out of currentt session
+ctrl+w              -  erases one word in current line
+ctrl+u              -  erases whole line
+ctrl+r              -  reverse lookup of previous commands
+ctrl+l              -  clear terminal screen
+!!                  -  repeat last command
+exit                -  log out of current session
+----------------- Command LIne -----------------------------
+sudo !!                     -  run the last command as root
+python -m SimpleHTTPServer  -  server current directory tree at http://$host:8080/
+!whatever:p                 -  check command history,but avoid running it
+ffmpeg -f x11grab -s wxga -r 25 -i :0.0 -sameq /root/Desktop/CapturedVideo.mpg
+ -capture video of linux desktop
+################################# anonym8 Command List #########################
+	 anonym8 (v 1.0) Usage Ex:
+
+	 anON  => automated protection [ON]
+	 anOFF => automated protection [OFF]
+
+	 ADVANCED COMMANDS LIST:
+
+	┌──[root@kali]─[/root/anonym8]
+	└──╼ anonym8 {start|stop|change|status...}
+
+	----[ Tor Tunneling related features ]----
+	 anonym8 start            => Start Tor Tunneling	  
+	 anonym8 stop             => Stop Tor Tunneling
+	 anonym8 change           => Changes identity restarting TOR
+	 anonym8 status           => Tor Tunneling Status
+
+	----[ IP related features ]----
+	 anonym8 status_ip        => IP status
+
+	----[ I2P related features ]----
+	 anonym8 start_i2p        => Start i2p services
+	 anonym8 stop_i2p         => Stop i2p services
+	 anonym8 status_i2p       => i2p status
+
+	----[ privoxy related features ]----
+	 anonym8 start_privoxy    => Start privoxy services
+	 anonym8 stop_privoxy     => Stop privoxy services
+	 anonym8 status_privoxy   => privoxy status
+
+	----[ polipo related features ]----
+	 anonym8 start_polipo     => Start polipo services
+	 anonym8 stop_polipo      => Stop polipo services
+	 anonym8 status_polipo    => Polipo status
+
+	----[ macchanger related features ]----
+	 anonym8 start_mac        => Start macchanger services
+	 anonym8 stop_mac         => Stop macchanger services
+	 anonym8 status_mac       => macchanger status
+
+	----[ arm related features ]----
+	 anonym8 start_arm        => Start Monitoring Anonymizing Relay (arm)
+
+	----[ wipe related features ]----
+	 anonym8 wipe             => cache, RAM & swap-space cleaner
+
+	----[ hostname related features ]----
+	 anonym8 change_hostname  => Randomly Spoofing Hostname
+	 anonym8 restore_hostname => Restore Default Hostname
+	 anonym8 status_hostname  => Show Current Hostname
+
+
+

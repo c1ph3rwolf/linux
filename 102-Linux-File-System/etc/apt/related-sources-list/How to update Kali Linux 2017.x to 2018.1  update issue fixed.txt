@@ -1,0 +1,22 @@
+Hello Friends,
+As you know that Kali Linux updated version (2018.1) has been released so in this video I will show you that how to update Kali Linux 2017.x to Kali Linux 2018.1? How to fix GPG signature error while updating kali linux? How to fix unable to locate package 
+error? How to update kali linux repository in sources.list file?
+
+copy following repositories in /etc/apt/sources.list
+Kali sources.list Repositories
+
+¯_¯_¯_ [Kali Rolling repo]_¯_¯_¯
+
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+# deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+
+¯_¯_¯_ [Kali Rolling (HTTPS support)]_¯_¯_¯
+
+deb https://http.kali.org/kali kali-rolling main non-free contrib
+# deb-src https://http.kali.org/kali kali-rolling main non-free contrib
+
+¯_¯_¯_ [GPG error]_¯_¯_¯
+wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
+
+Watch advance video tutorials 
+https://techchip.net/products/

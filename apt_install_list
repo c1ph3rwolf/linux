@@ -1,0 +1,12 @@
+   19  sudo apt-get clean
+   20  sudo apt-get update
+  197  sudo apt-get update 
+  200  sudo apt-get install fidget
+  224  sudo apt update && sudo apt -y install exploitdb
+  254  sudo apt-get clear
+  255  sudo apt-get clean
+  256  sudo apt-get update
+  262  nano /etc/apt/sources.list
+  263  cat /etc/apt/sources.list
+  273  sudo apt-get update && upgrade -y -y
+  274  sudo apt-get update -y

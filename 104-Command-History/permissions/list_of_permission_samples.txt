@@ -1,0 +1,13 @@
+total 4
+---------- 1 stephan stephan  0 Dec 23 07:59 chmod000
+---x--x--x 1 stephan stephan  0 Dec 23 07:59 chmod111
+---x-w-r-- 1 stephan stephan  0 Dec 23 07:59 chmod124
+--w--w--w- 1 stephan stephan  0 Dec 23 08:05 chmod222
+--wx-wx-wx 1 stephan stephan  0 Dec 23 08:05 chmod333
+-r---wx--x 1 stephan stephan  0 Dec 23 07:59 chmod431
+-r--r--r-- 1 stephan stephan  0 Dec 23 08:04 chmod444
+-rw------- 1 stephan stephan  0 Dec 23 07:59 chmod600
+-rw-r--r-- 1 stephan stephan  0 Dec 23 08:01 chmod644
+-rw-rw-rw- 1 stephan stephan  0 Dec 23 07:59 chmod666
+-rwxrwxrwx 1 stephan stephan  0 Dec 23 07:59 chmod777
+-rw------- 1 root    root    45 Dec 23 08:13 chownroot

